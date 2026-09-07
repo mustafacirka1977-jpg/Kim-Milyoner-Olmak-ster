@@ -1,6 +1,7 @@
 {
   "sorular": [
     {
+      "id": "Q0001",
       "soru": "9 + 8 işleminin sonucu kaçtır?",
       "cevapA": "18",
       "cevapB": "16",
@@ -11,6 +12,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0002",
       "soru": "16 + 10 işleminin sonucu kaçtır?",
       "cevapA": "27",
       "cevapB": "25",
@@ -21,6 +23,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0003",
       "soru": "13 + 30 işleminin sonucu kaçtır?",
       "cevapA": "43",
       "cevapB": "44",
@@ -31,6 +34,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0004",
       "soru": "2 + 9 işleminin sonucu kaçtır?",
       "cevapA": "12",
       "cevapB": "11",
@@ -41,6 +45,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0005",
       "soru": "5 + 3 işleminin sonucu kaçtır?",
       "cevapA": "9",
       "cevapB": "13",
@@ -51,6 +56,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0006",
       "soru": "7 + 5 işleminin sonucu kaçtır?",
       "cevapA": "11",
       "cevapB": "12",
@@ -61,6 +67,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0007",
       "soru": "2 + 20 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "22",
@@ -71,6 +78,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0008",
       "soru": "19 + 5 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "24",
@@ -81,6 +89,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0009",
       "soru": "9 + 12 işleminin sonucu kaçtır?",
       "cevapA": "26",
       "cevapB": "22",
@@ -91,6 +100,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0010",
       "soru": "10 + 5 işleminin sonucu kaçtır?",
       "cevapA": "15",
       "cevapB": "20",
@@ -101,6 +111,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0011",
       "soru": "7 + 25 işleminin sonucu kaçtır?",
       "cevapA": "31",
       "cevapB": "37",
@@ -111,6 +122,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0012",
       "soru": "2 + 19 işleminin sonucu kaçtır?",
       "cevapA": "21",
       "cevapB": "22",
@@ -121,6 +133,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0013",
       "soru": "22 + 18 işleminin sonucu kaçtır?",
       "cevapA": "45",
       "cevapB": "39",
@@ -131,6 +144,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0014",
       "soru": "4 + 23 işleminin sonucu kaçtır?",
       "cevapA": "26",
       "cevapB": "28",
@@ -141,6 +155,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0015",
       "soru": "4 + 27 işleminin sonucu kaçtır?",
       "cevapA": "30",
       "cevapB": "31",
@@ -151,6 +166,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0016",
       "soru": "25 + 7 işleminin sonucu kaçtır?",
       "cevapA": "31",
       "cevapB": "33",
@@ -161,6 +177,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0017",
       "soru": "19 + 3 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "27",
@@ -171,6 +188,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0018",
       "soru": "16 + 6 işleminin sonucu kaçtır?",
       "cevapA": "22",
       "cevapB": "27",
@@ -181,6 +199,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0019",
       "soru": "28 + 18 işleminin sonucu kaçtır?",
       "cevapA": "47",
       "cevapB": "51",
@@ -191,6 +210,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0020",
       "soru": "16 + 11 işleminin sonucu kaçtır?",
       "cevapA": "27",
       "cevapB": "28",
@@ -201,6 +221,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0021",
       "soru": "13 - 6 işleminin sonucu kaçtır?",
       "cevapA": "17",
       "cevapB": "7",
@@ -211,6 +232,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0022",
       "soru": "41 - 24 işleminin sonucu kaçtır?",
       "cevapA": "16",
       "cevapB": "18",
@@ -221,6 +243,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0023",
       "soru": "32 - 9 işleminin sonucu kaçtır?",
       "cevapA": "33",
       "cevapB": "22",
@@ -231,6 +254,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0024",
       "soru": "49 - 32 işleminin sonucu kaçtır?",
       "cevapA": "18",
       "cevapB": "27",
@@ -241,6 +265,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0025",
       "soru": "26 - 18 işleminin sonucu kaçtır?",
       "cevapA": "7",
       "cevapB": "9",
@@ -251,6 +276,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0026",
       "soru": "11 - 3 işleminin sonucu kaçtır?",
       "cevapA": "18",
       "cevapB": "9",
@@ -261,6 +287,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0027",
       "soru": "50 - 46 işleminin sonucu kaçtır?",
       "cevapA": "5",
       "cevapB": "14",
@@ -271,6 +298,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0028",
       "soru": "13 - 1 işleminin sonucu kaçtır?",
       "cevapA": "22",
       "cevapB": "13",
@@ -281,6 +309,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0029",
       "soru": "24 - 16 işleminin sonucu kaçtır?",
       "cevapA": "18",
       "cevapB": "8",
@@ -291,6 +320,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0030",
       "soru": "45 - 41 işleminin sonucu kaçtır?",
       "cevapA": "4",
       "cevapB": "3",
@@ -301,6 +331,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0031",
       "soru": "8 × 4 işleminin sonucu kaçtır?",
       "cevapA": "40",
       "cevapB": "34",
@@ -311,6 +342,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0032",
       "soru": "10 × 8 işleminin sonucu kaçtır?",
       "cevapA": "80",
       "cevapB": "72",
@@ -321,6 +353,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0033",
       "soru": "4 × 4 işleminin sonucu kaçtır?",
       "cevapA": "20",
       "cevapB": "12",
@@ -331,6 +364,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0034",
       "soru": "9 × 3 işleminin sonucu kaçtır?",
       "cevapA": "29",
       "cevapB": "36",
@@ -341,6 +375,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0035",
       "soru": "6 × 7 işleminin sonucu kaçtır?",
       "cevapA": "42",
       "cevapB": "48",
@@ -351,6 +386,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0036",
       "soru": "2 × 9 işleminin sonucu kaçtır?",
       "cevapA": "18",
       "cevapB": "9",
@@ -361,6 +397,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0037",
       "soru": "9 × 7 işleminin sonucu kaçtır?",
       "cevapA": "72",
       "cevapB": "63",
@@ -371,6 +408,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0038",
       "soru": "4 × 7 işleminin sonucu kaçtır?",
       "cevapA": "28",
       "cevapB": "32",
@@ -381,6 +419,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0039",
       "soru": "7 × 7 işleminin sonucu kaçtır?",
       "cevapA": "56",
       "cevapB": "51",
@@ -391,6 +430,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0040",
       "soru": "3 × 5 işleminin sonucu kaçtır?",
       "cevapA": "15",
       "cevapB": "18",
@@ -401,6 +441,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0041",
       "soru": "Türkiye'nin başkenti hangisidir?",
       "cevapA": "İzmir",
       "cevapB": "İstanbul",
@@ -411,6 +452,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0042",
       "soru": "Fransa'nın başkenti hangisidir?",
       "cevapA": "Lyon",
       "cevapB": "Marsilya",
@@ -421,6 +463,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0043",
       "soru": "İtalya'nın başkenti hangisidir?",
       "cevapA": "Torino",
       "cevapB": "Milano",
@@ -431,6 +474,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0044",
       "soru": "Almanya'nın başkenti hangisidir?",
       "cevapA": "Hamburg",
       "cevapB": "Köln",
@@ -441,6 +485,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0045",
       "soru": "Japonya'nın başkenti hangisidir?",
       "cevapA": "Nagoya",
       "cevapB": "Osaka",
@@ -451,6 +496,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0046",
       "soru": "Dünyanın en büyük okyanusu hangisidir?",
       "cevapA": "Arktik Okyanusu",
       "cevapB": "Atlas Okyanusu",
@@ -461,6 +507,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0047",
       "soru": "Türkiye'nin en büyük gölü hangisidir?",
       "cevapA": "Van Gölü",
       "cevapB": "Beyşehir Gölü",
@@ -471,6 +518,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0048",
       "soru": "Suyun kimyasal formülü hangisidir?",
       "cevapA": "O2",
       "cevapB": "NaCl",
@@ -481,6 +529,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0049",
       "soru": "Oksijenin kimyasal sembolü hangisidir?",
       "cevapA": "O",
       "cevapB": "Ox",
@@ -491,6 +540,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0050",
       "soru": "Altının kimyasal sembolü hangisidir?",
       "cevapA": "Ag",
       "cevapB": "At",
@@ -501,6 +551,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0051",
       "soru": "İnsan vücudunun en büyük organı hangisidir?",
       "cevapA": "Beyin",
       "cevapB": "Karaciğer",
@@ -511,6 +562,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0052",
       "soru": "Bitkiler fotosentez sırasında hangi gazı alır?",
       "cevapA": "Karbondioksit",
       "cevapB": "Oksijen",
@@ -521,6 +573,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0053",
       "soru": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
       "cevapA": "Jüpiter",
       "cevapB": "Mars",
@@ -531,6 +584,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0054",
       "soru": "Dünya'nın doğal uydusunun adı nedir?",
       "cevapA": "Mars",
       "cevapB": "Venüs",
@@ -541,6 +595,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0055",
       "soru": "Bir yılda kaç ay vardır?",
       "cevapA": "11",
       "cevapB": "10",
@@ -551,6 +606,7 @@
       "kategori": "Genel Kültür"
     },
     {
+      "id": "Q0056",
       "soru": "Bir haftada kaç gün vardır?",
       "cevapA": "5",
       "cevapB": "8",
@@ -561,6 +617,7 @@
       "kategori": "Genel Kültür"
     },
     {
+      "id": "Q0057",
       "soru": "İstiklal Marşı'nın yazarı kimdir?",
       "cevapA": "Yahya Kemal Beyatlı",
       "cevapB": "Namık Kemal",
@@ -571,6 +628,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0058",
       "soru": "Türkiye Cumhuriyeti hangi yılda ilan edilmiştir?",
       "cevapA": "1923",
       "cevapB": "1920",
@@ -581,6 +639,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0059",
       "soru": "Nutuk'un yazarı kimdir?",
       "cevapA": "Halide Edip Adıvar",
       "cevapB": "Yakup Kadri Karaosmanoğlu",
@@ -591,6 +650,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0060",
       "soru": "Mona Lisa tablosunu kim yapmıştır?",
       "cevapA": "Pablo Picasso",
       "cevapB": "Vincent van Gogh",
@@ -601,6 +661,7 @@
       "kategori": "Sanat"
     },
     {
+      "id": "Q0061",
       "soru": "Dört mevsimden biri hangisidir?",
       "cevapA": "Gündüz",
       "cevapB": "Pazartesi",
@@ -611,6 +672,7 @@
       "kategori": "Genel Kültür"
     },
     {
+      "id": "Q0062",
       "soru": "Dünyamızın şekline en yakın tanım hangisidir?",
       "cevapA": "Üçgen",
       "cevapB": "Küp",
@@ -621,6 +683,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0063",
       "soru": "Kanın vücutta dolaşmasını sağlayan organ hangisidir?",
       "cevapA": "Kalp",
       "cevapB": "Mide",
@@ -631,6 +694,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0064",
       "soru": "Dişleri fırçalamak için kullanılan araç hangisidir?",
       "cevapA": "Cetvel",
       "cevapB": "Kaşık",
@@ -641,6 +705,7 @@
       "kategori": "Genel Kültür"
     },
     {
+      "id": "Q0065",
       "soru": "Türkiye'nin para birimi hangisidir?",
       "cevapA": "Sterlin",
       "cevapB": "Euro",
@@ -651,6 +716,7 @@
       "kategori": "Genel Kültür"
     },
     {
+      "id": "Q0066",
       "soru": "20 sayısının %20'si kaçtır?",
       "cevapA": "4",
       "cevapB": "9",
@@ -661,6 +727,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0067",
       "soru": "80 sayısının %50'si kaçtır?",
       "cevapA": "45",
       "cevapB": "40",
@@ -671,6 +738,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0068",
       "soru": "60 sayısının %10'si kaçtır?",
       "cevapA": "1",
       "cevapB": "6",
@@ -681,6 +749,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0069",
       "soru": "100 sayısının %50'si kaçtır?",
       "cevapA": "100",
       "cevapB": "45",
@@ -691,6 +760,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0070",
       "soru": "100 sayısının %25'si kaçtır?",
       "cevapA": "30",
       "cevapB": "50",
@@ -701,6 +771,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0071",
       "soru": "20 sayısının %50'si kaçtır?",
       "cevapA": "10",
       "cevapB": "20",
@@ -711,6 +782,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0072",
       "soru": "50 sayısının %25'si kaçtır?",
       "cevapA": "24",
       "cevapB": "17",
@@ -721,6 +793,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0073",
       "soru": "40 sayısının %50'si kaçtır?",
       "cevapA": "25",
       "cevapB": "40",
@@ -731,6 +804,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0074",
       "soru": "40 sayısının %10'si kaçtır?",
       "cevapA": "9",
       "cevapB": "4",
@@ -741,6 +815,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0075",
       "soru": "60 sayısının %20'si kaçtır?",
       "cevapA": "12",
       "cevapB": "7",
@@ -751,6 +826,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0076",
       "soru": "60 sayısının %25'si kaçtır?",
       "cevapA": "15",
       "cevapB": "20",
@@ -761,6 +837,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0077",
       "soru": "40 sayısının %25'si kaçtır?",
       "cevapA": "15",
       "cevapB": "10",
@@ -771,6 +848,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0078",
       "soru": "80 sayısının %25'si kaçtır?",
       "cevapA": "15",
       "cevapB": "25",
@@ -781,6 +859,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0079",
       "soru": "50 sayısının %10'si kaçtır?",
       "cevapA": "10",
       "cevapB": "5",
@@ -791,6 +870,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0080",
       "soru": "50 sayısının %50'si kaçtır?",
       "cevapA": "30",
       "cevapB": "25",
@@ -801,6 +881,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0081",
       "soru": "40 sayısının %20'si kaçtır?",
       "cevapA": "16",
       "cevapB": "8",
@@ -811,6 +892,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0082",
       "soru": "80 sayısının %20'si kaçtır?",
       "cevapA": "32",
       "cevapB": "11",
@@ -821,6 +903,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0083",
       "soru": "60 sayısının %50'si kaçtır?",
       "cevapA": "35",
       "cevapB": "25",
@@ -831,6 +914,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0084",
       "soru": "20 sayısının %10'si kaçtır?",
       "cevapA": "7",
       "cevapB": "0",
@@ -841,6 +925,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0085",
       "soru": "100 sayısının %10'si kaçtır?",
       "cevapA": "20",
       "cevapB": "10",
@@ -851,6 +936,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0086",
       "soru": "20 sayısının %25'si kaçtır?",
       "cevapA": "0",
       "cevapB": "10",
@@ -861,6 +947,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0087",
       "soru": "52 × 7 işleminin sonucu kaçtır?",
       "cevapA": "312",
       "cevapB": "374",
@@ -871,6 +958,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0088",
       "soru": "13 × 5 işleminin sonucu kaçtır?",
       "cevapA": "65",
       "cevapB": "52",
@@ -881,6 +969,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0089",
       "soru": "18 × 9 işleminin sonucu kaçtır?",
       "cevapA": "171",
       "cevapB": "172",
@@ -891,6 +980,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0090",
       "soru": "20 × 9 işleminin sonucu kaçtır?",
       "cevapA": "189",
       "cevapB": "190",
@@ -901,6 +991,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0091",
       "soru": "40 × 8 işleminin sonucu kaçtır?",
       "cevapA": "280",
       "cevapB": "328",
@@ -911,6 +1002,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0092",
       "soru": "35 × 10 işleminin sonucu kaçtır?",
       "cevapA": "360",
       "cevapB": "360",
@@ -921,6 +1013,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0093",
       "soru": "60 × 9 işleminin sonucu kaçtır?",
       "cevapA": "480",
       "cevapB": "550",
@@ -931,6 +1024,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0094",
       "soru": "38 × 10 işleminin sonucu kaçtır?",
       "cevapA": "380",
       "cevapB": "342",
@@ -941,6 +1035,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0095",
       "soru": "17 × 4 işleminin sonucu kaçtır?",
       "cevapA": "51",
       "cevapB": "72",
@@ -951,6 +1046,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0096",
       "soru": "38 × 3 işleminin sonucu kaçtır?",
       "cevapA": "114",
       "cevapB": "76",
@@ -961,6 +1057,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0097",
       "soru": "41 × 12 işleminin sonucu kaçtır?",
       "cevapA": "492",
       "cevapB": "502",
@@ -971,6 +1068,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0098",
       "soru": "27 × 8 işleminin sonucu kaçtır?",
       "cevapA": "224",
       "cevapB": "216",
@@ -981,6 +1079,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0099",
       "soru": "42 × 3 işleminin sonucu kaçtır?",
       "cevapA": "136",
       "cevapB": "84",
@@ -991,6 +1090,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0100",
       "soru": "60 × 11 işleminin sonucu kaçtır?",
       "cevapA": "600",
       "cevapB": "660",
@@ -1001,6 +1101,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0101",
       "soru": "37 × 11 işleminin sonucu kaçtır?",
       "cevapA": "417",
       "cevapB": "407",
@@ -1011,6 +1112,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0102",
       "soru": "43 × 7 işleminin sonucu kaçtır?",
       "cevapA": "308",
       "cevapB": "258",
@@ -1021,6 +1123,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0103",
       "soru": "52 × 4 işleminin sonucu kaçtır?",
       "cevapA": "218",
       "cevapB": "212",
@@ -1031,6 +1134,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0104",
       "soru": "50 × 9 işleminin sonucu kaçtır?",
       "cevapA": "450",
       "cevapB": "459",
@@ -1041,6 +1145,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0105",
       "soru": "13 × 7 işleminin sonucu kaçtır?",
       "cevapA": "101",
       "cevapB": "78",
@@ -1051,6 +1156,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0106",
       "soru": "288 ÷ 12 işleminin sonucu kaçtır?",
       "cevapA": "24",
       "cevapB": "23",
@@ -1061,6 +1167,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0107",
       "soru": "192 ÷ 8 işleminin sonucu kaçtır?",
       "cevapA": "29",
       "cevapB": "25",
@@ -1071,6 +1178,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0108",
       "soru": "117 ÷ 9 işleminin sonucu kaçtır?",
       "cevapA": "14",
       "cevapB": "12",
@@ -1081,6 +1189,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0109",
       "soru": "108 ÷ 12 işleminin sonucu kaçtır?",
       "cevapA": "10",
       "cevapB": "9",
@@ -1091,6 +1200,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0110",
       "soru": "120 ÷ 6 işleminin sonucu kaçtır?",
       "cevapA": "19",
       "cevapB": "21",
@@ -1101,6 +1211,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0111",
       "soru": "70 ÷ 5 işleminin sonucu kaçtır?",
       "cevapA": "14",
       "cevapB": "19",
@@ -1111,6 +1222,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0112",
       "soru": "36 ÷ 4 işleminin sonucu kaçtır?",
       "cevapA": "14",
       "cevapB": "9",
@@ -1121,6 +1233,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0113",
       "soru": "180 ÷ 12 işleminin sonucu kaçtır?",
       "cevapA": "14",
       "cevapB": "15",
@@ -1131,6 +1244,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0114",
       "soru": "32 ÷ 2 işleminin sonucu kaçtır?",
       "cevapA": "17",
       "cevapB": "16",
@@ -1141,6 +1255,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0115",
       "soru": "98 ÷ 7 işleminin sonucu kaçtır?",
       "cevapA": "14",
       "cevapB": "15",
@@ -1151,6 +1266,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0116",
       "soru": "240 sayısının %20'si kaçtır?",
       "cevapA": "58",
       "cevapB": "68",
@@ -1161,6 +1277,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0117",
       "soru": "160 sayısının %25'si kaçtır?",
       "cevapA": "30",
       "cevapB": "60",
@@ -1171,6 +1288,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0118",
       "soru": "240 sayısının %25'si kaçtır?",
       "cevapA": "70",
       "cevapB": "50",
@@ -1181,6 +1299,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0119",
       "soru": "160 sayısının %15'si kaçtır?",
       "cevapA": "14",
       "cevapB": "24",
@@ -1191,6 +1310,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0120",
       "soru": "200 sayısının %30'si kaçtır?",
       "cevapA": "80",
       "cevapB": "60",
@@ -1201,6 +1321,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0121",
       "soru": "160 sayısının %40'si kaçtır?",
       "cevapA": "74",
       "cevapB": "64",
@@ -1211,6 +1332,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0122",
       "soru": "200 sayısının %20'si kaçtır?",
       "cevapA": "30",
       "cevapB": "40",
@@ -1221,6 +1343,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0123",
       "soru": "300 sayısının %20'si kaçtır?",
       "cevapA": "80",
       "cevapB": "50",
@@ -1231,6 +1354,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0124",
       "soru": "Brezilya'nın başkenti hangisidir?",
       "cevapA": "Brasília",
       "cevapB": "São Paulo",
@@ -1241,6 +1365,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0125",
       "soru": "Kanada'nın başkenti hangisidir?",
       "cevapA": "Vancouver",
       "cevapB": "Toronto",
@@ -1251,6 +1376,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0126",
       "soru": "Avustralya'nın başkenti hangisidir?",
       "cevapA": "Perth",
       "cevapB": "Canberra",
@@ -1261,6 +1387,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0127",
       "soru": "İsviçre'nin federal şehri hangisidir?",
       "cevapA": "Basel",
       "cevapB": "Zürih",
@@ -1271,6 +1398,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0128",
       "soru": "Mısır'ın başkenti hangisidir?",
       "cevapA": "Kahire",
       "cevapB": "Gize",
@@ -1281,6 +1409,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0129",
       "soru": "Fe sembolü hangi elemente aittir?",
       "cevapA": "Fransiyum",
       "cevapB": "Demir",
@@ -1291,6 +1420,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0130",
       "soru": "Na sembolü hangi elemente aittir?",
       "cevapA": "Neon",
       "cevapB": "Azot",
@@ -1301,6 +1431,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0131",
       "soru": "Ag sembolü hangi elemente aittir?",
       "cevapA": "Altın",
       "cevapB": "Argon",
@@ -1311,6 +1442,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0132",
       "soru": "DNA'nın açılımı hangisidir?",
       "cevapA": "Diferansiyel Nükleik Asit",
       "cevapB": "Deoksiribonükleik Asit",
@@ -1321,6 +1453,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0133",
       "soru": "Mitoz bölünmede bir ana hücreden kaç yavru hücre oluşur?",
       "cevapA": "1",
       "cevapB": "3",
@@ -1331,6 +1464,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0134",
       "soru": "İnsanlarda solunumun temel organı hangisidir?",
       "cevapA": "Safra kesesi",
       "cevapB": "Dalak",
@@ -1341,6 +1475,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0135",
       "soru": "Ses boşlukta yayılır mı?",
       "cevapA": "Hayır",
       "cevapB": "Sadece sıcakta",
@@ -1351,6 +1486,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0136",
       "soru": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
       "cevapA": "3.000.000",
       "cevapB": "30.000",
@@ -1361,6 +1497,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0137",
       "soru": "Ay'a ilk ayak basan insan kimdir?",
       "cevapA": "Neil Armstrong",
       "cevapB": "Buzz Aldrin",
@@ -1371,6 +1508,7 @@
       "kategori": "Uzay"
     },
     {
+      "id": "Q0138",
       "soru": "Divanü Lügati't-Türk'ün yazarı kimdir?",
       "cevapA": "Kaşgarlı Mahmud",
       "cevapB": "Ali Şir Nevai",
@@ -1381,6 +1519,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0139",
       "soru": "Kutadgu Bilig'in yazarı kimdir?",
       "cevapA": "Nabi",
       "cevapB": "Kaşgarlı Mahmud",
@@ -1391,6 +1530,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0140",
       "soru": "Sefiller romanının yazarı kimdir?",
       "cevapA": "Balzac",
       "cevapB": "Alexandre Dumas",
@@ -1401,6 +1541,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0141",
       "soru": "Romeo ve Juliet'in yazarı kimdir?",
       "cevapA": "Dante",
       "cevapB": "William Shakespeare",
@@ -1411,6 +1552,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0142",
       "soru": "Osmanlı Devleti'nin kurucusu kimdir?",
       "cevapA": "I. Murad",
       "cevapB": "Osman Gazi",
@@ -1421,6 +1563,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0143",
       "soru": "İstanbul hangi yılda fethedilmiştir?",
       "cevapA": "1299",
       "cevapB": "1453",
@@ -1431,6 +1574,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0144",
       "soru": "Malazgirt Savaşı hangi yılda yapılmıştır?",
       "cevapA": "1071",
       "cevapB": "1176",
@@ -1441,6 +1585,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0145",
       "soru": "Türkiye Büyük Millet Meclisi hangi yıl açılmıştır?",
       "cevapA": "1923",
       "cevapB": "1920",
@@ -1451,6 +1596,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0146",
       "soru": "Pi sayısının yaklaşık değeri hangisidir?",
       "cevapA": "2,71",
       "cevapB": "3,14",
@@ -1461,6 +1607,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0147",
       "soru": "Bir dik açının ölçüsü kaç derecedir?",
       "cevapA": "60",
       "cevapB": "120",
@@ -1471,6 +1618,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0148",
       "soru": "Bir üçgenin iç açılar toplamı kaç derecedir?",
       "cevapA": "180",
       "cevapB": "90",
@@ -1481,6 +1629,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0149",
       "soru": "14 × 3 + 12 işleminin sonucu kaçtır?",
       "cevapA": "54",
       "cevapB": "55",
@@ -1491,6 +1640,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0150",
       "soru": "18 × 8 + 12 işleminin sonucu kaçtır?",
       "cevapA": "164",
       "cevapB": "156",
@@ -1501,6 +1651,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0151",
       "soru": "5 × 3 + 5 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "21",
@@ -1511,6 +1662,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0152",
       "soru": "11 × 3 + 5 işleminin sonucu kaçtır?",
       "cevapA": "41",
       "cevapB": "38",
@@ -1521,6 +1673,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0153",
       "soru": "18 × 3 + 15 işleminin sonucu kaçtır?",
       "cevapA": "70",
       "cevapB": "68",
@@ -1531,6 +1684,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0154",
       "soru": "12 × 7 + 8 işleminin sonucu kaçtır?",
       "cevapA": "99",
       "cevapB": "91",
@@ -1541,6 +1695,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0155",
       "soru": "17 × 4 + 6 işleminin sonucu kaçtır?",
       "cevapA": "75",
       "cevapB": "78",
@@ -1551,6 +1706,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0156",
       "soru": "15 × 4 + 4 işleminin sonucu kaçtır?",
       "cevapA": "63",
       "cevapB": "65",
@@ -1561,6 +1717,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0157",
       "soru": "12 × 4 + 5 işleminin sonucu kaçtır?",
       "cevapA": "52",
       "cevapB": "53",
@@ -1571,6 +1728,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0158",
       "soru": "20 × 9 + 13 işleminin sonucu kaçtır?",
       "cevapA": "193",
       "cevapB": "202",
@@ -1581,6 +1739,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0159",
       "soru": "13 × 9 + 3 işleminin sonucu kaçtır?",
       "cevapA": "120",
       "cevapB": "119",
@@ -1591,6 +1750,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0160",
       "soru": "18 × 3 + 10 işleminin sonucu kaçtır?",
       "cevapA": "67",
       "cevapB": "63",
@@ -1601,6 +1761,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0161",
       "soru": "13 × 9 + 1 işleminin sonucu kaçtır?",
       "cevapA": "118",
       "cevapB": "117",
@@ -1611,6 +1772,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0162",
       "soru": "15 × 6 + 1 işleminin sonucu kaçtır?",
       "cevapA": "90",
       "cevapB": "92",
@@ -1621,6 +1783,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0163",
       "soru": "8 × 5 + 1 işleminin sonucu kaçtır?",
       "cevapA": "41",
       "cevapB": "42",
@@ -1631,6 +1794,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0164",
       "soru": "6 × 5 + 3 işleminin sonucu kaçtır?",
       "cevapA": "33",
       "cevapB": "38",
@@ -1641,6 +1805,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0165",
       "soru": "10 × 6 + 11 işleminin sonucu kaçtır?",
       "cevapA": "77",
       "cevapB": "70",
@@ -1651,6 +1816,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0166",
       "soru": "17 × 5 + 5 işleminin sonucu kaçtır?",
       "cevapA": "90",
       "cevapB": "89",
@@ -1661,6 +1827,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0167",
       "soru": "9 × 8 + 2 işleminin sonucu kaçtır?",
       "cevapA": "73",
       "cevapB": "74",
@@ -1671,6 +1838,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0168",
       "soru": "10 × 7 + 9 işleminin sonucu kaçtır?",
       "cevapA": "78",
       "cevapB": "86",
@@ -1681,6 +1849,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0169",
       "soru": "10 × 2 + 12 işleminin sonucu kaçtır?",
       "cevapA": "34",
       "cevapB": "31",
@@ -1691,6 +1860,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0170",
       "soru": "14 × 3 + 11 işleminin sonucu kaçtır?",
       "cevapA": "52",
       "cevapB": "54",
@@ -1701,6 +1871,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0171",
       "soru": "20 × 10 + 8 işleminin sonucu kaçtır?",
       "cevapA": "209",
       "cevapB": "218",
@@ -1711,6 +1882,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0172",
       "soru": "15 × 3 + 5 işleminin sonucu kaçtır?",
       "cevapA": "49",
       "cevapB": "53",
@@ -1721,6 +1893,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0173",
       "soru": "8 × 4 + 11 işleminin sonucu kaçtır?",
       "cevapA": "44",
       "cevapB": "43",
@@ -1731,6 +1904,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0174",
       "soru": "15 × 9 + 3 işleminin sonucu kaçtır?",
       "cevapA": "139",
       "cevapB": "147",
@@ -1741,6 +1915,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0175",
       "soru": "15 × 10 + 15 işleminin sonucu kaçtır?",
       "cevapA": "175",
       "cevapB": "165",
@@ -1751,6 +1926,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0176",
       "soru": "5 × 3 + 11 işleminin sonucu kaçtır?",
       "cevapA": "29",
       "cevapB": "26",
@@ -1761,6 +1937,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0177",
       "soru": "13 × 9 + 12 işleminin sonucu kaçtır?",
       "cevapA": "130",
       "cevapB": "128",
@@ -1771,6 +1948,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0178",
       "soru": "19 × 3 + 3 işleminin sonucu kaçtır?",
       "cevapA": "63",
       "cevapB": "59",
@@ -1781,6 +1959,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0179",
       "soru": "8 × 7 + 13 işleminin sonucu kaçtır?",
       "cevapA": "76",
       "cevapB": "70",
@@ -1791,6 +1970,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0180",
       "soru": "16 × 6 + 14 işleminin sonucu kaçtır?",
       "cevapA": "109",
       "cevapB": "116",
@@ -1801,6 +1981,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0181",
       "soru": "7 × 10 + 10 işleminin sonucu kaçtır?",
       "cevapA": "79",
       "cevapB": "80",
@@ -1811,6 +1992,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0182",
       "soru": "16 × 5 + 1 işleminin sonucu kaçtır?",
       "cevapA": "86",
       "cevapB": "82",
@@ -1821,6 +2003,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0183",
       "soru": "16 × 7 + 13 işleminin sonucu kaçtır?",
       "cevapA": "124",
       "cevapB": "126",
@@ -1831,6 +2014,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0184",
       "soru": "(4 + 8) × 9 işleminin sonucu kaçtır?",
       "cevapA": "117",
       "cevapB": "108",
@@ -1841,6 +2025,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0185",
       "soru": "(5 + 11) × 3 işleminin sonucu kaçtır?",
       "cevapA": "48",
       "cevapB": "38",
@@ -1851,6 +2036,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0186",
       "soru": "(4 + 12) × 9 işleminin sonucu kaçtır?",
       "cevapA": "153",
       "cevapB": "112",
@@ -1861,6 +2047,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0187",
       "soru": "(7 + 7) × 9 işleminin sonucu kaçtır?",
       "cevapA": "135",
       "cevapB": "70",
@@ -1871,6 +2058,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0188",
       "soru": "(17 + 9) × 5 işleminin sonucu kaçtır?",
       "cevapA": "135",
       "cevapB": "130",
@@ -1881,6 +2069,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0189",
       "soru": "(2 + 7) × 6 işleminin sonucu kaçtır?",
       "cevapA": "54",
       "cevapB": "60",
@@ -1891,6 +2080,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0190",
       "soru": "(6 + 4) × 8 işleminin sonucu kaçtır?",
       "cevapA": "72",
       "cevapB": "38",
@@ -1901,6 +2091,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0191",
       "soru": "(2 + 10) × 6 işleminin sonucu kaçtır?",
       "cevapA": "72",
       "cevapB": "62",
@@ -1911,6 +2102,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0192",
       "soru": "(20 + 8) × 8 işleminin sonucu kaçtır?",
       "cevapA": "224",
       "cevapB": "232",
@@ -1921,6 +2113,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0193",
       "soru": "(3 + 8) × 5 işleminin sonucu kaçtır?",
       "cevapA": "50",
       "cevapB": "60",
@@ -1931,6 +2124,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0194",
       "soru": "(2 + 7) × 7 işleminin sonucu kaçtır?",
       "cevapA": "56",
       "cevapB": "51",
@@ -1941,6 +2135,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0195",
       "soru": "(13 + 10) × 7 işleminin sonucu kaçtır?",
       "cevapA": "154",
       "cevapB": "83",
@@ -1951,6 +2146,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0196",
       "soru": "(9 + 6) × 6 işleminin sonucu kaçtır?",
       "cevapA": "45",
       "cevapB": "96",
@@ -1961,6 +2157,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0197",
       "soru": "(12 + 12) × 7 işleminin sonucu kaçtır?",
       "cevapA": "161",
       "cevapB": "175",
@@ -1971,6 +2168,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0198",
       "soru": "(16 + 10) × 2 işleminin sonucu kaçtır?",
       "cevapA": "54",
       "cevapB": "52",
@@ -1981,6 +2179,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0199",
       "soru": "(11 + 2) × 7 işleminin sonucu kaçtır?",
       "cevapA": "91",
       "cevapB": "84",
@@ -1991,6 +2190,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0200",
       "soru": "(17 + 8) × 8 işleminin sonucu kaçtır?",
       "cevapA": "192",
       "cevapB": "208",
@@ -2001,6 +2201,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0201",
       "soru": "(14 + 2) × 4 işleminin sonucu kaçtır?",
       "cevapA": "64",
       "cevapB": "22",
@@ -2011,6 +2212,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0202",
       "soru": "(9 + 6) × 3 işleminin sonucu kaçtır?",
       "cevapA": "27",
       "cevapB": "42",
@@ -2021,6 +2223,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0203",
       "soru": "(2 + 5) × 3 işleminin sonucu kaçtır?",
       "cevapA": "21",
       "cevapB": "17",
@@ -2031,6 +2234,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0204",
       "soru": "(8 + 12) × 8 işleminin sonucu kaçtır?",
       "cevapA": "152",
       "cevapB": "104",
@@ -2041,6 +2245,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0205",
       "soru": "(12 + 6) × 9 işleminin sonucu kaçtır?",
       "cevapA": "171",
       "cevapB": "162",
@@ -2051,6 +2256,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0206",
       "soru": "(8 + 3) × 6 işleminin sonucu kaçtır?",
       "cevapA": "72",
       "cevapB": "26",
@@ -2061,6 +2267,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0207",
       "soru": "(20 + 4) × 9 işleminin sonucu kaçtır?",
       "cevapA": "56",
       "cevapB": "216",
@@ -2071,6 +2278,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0208",
       "soru": "(3 + 2) × 2 işleminin sonucu kaçtır?",
       "cevapA": "12",
       "cevapB": "10",
@@ -2081,6 +2289,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0209",
       "soru": "2^3 kaçtır?",
       "cevapA": "8",
       "cevapB": "10",
@@ -2091,6 +2300,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0210",
       "soru": "8^3 kaçtır?",
       "cevapA": "32",
       "cevapB": "520",
@@ -2101,6 +2311,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0211",
       "soru": "9^3 kaçtır?",
       "cevapA": "36",
       "cevapB": "738",
@@ -2111,6 +2322,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0212",
       "soru": "4^2 kaçtır?",
       "cevapA": "12",
       "cevapB": "16",
@@ -2121,6 +2333,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0213",
       "soru": "3^2 kaçtır?",
       "cevapA": "6",
       "cevapB": "9",
@@ -2131,6 +2344,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0214",
       "soru": "5^2 kaçtır?",
       "cevapA": "20",
       "cevapB": "25",
@@ -2141,6 +2355,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0215",
       "soru": "6^2 kaçtır?",
       "cevapA": "36",
       "cevapB": "18",
@@ -2151,6 +2366,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0216",
       "soru": "6^3 kaçtır?",
       "cevapA": "24",
       "cevapB": "216",
@@ -2161,6 +2377,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0217",
       "soru": "Arjantin'in başkenti hangisidir?",
       "cevapA": "Córdoba",
       "cevapB": "Mendoza",
@@ -2171,6 +2388,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0218",
       "soru": "Yeni Zelanda'nın başkenti hangisidir?",
       "cevapA": "Auckland",
       "cevapB": "Christchurch",
@@ -2181,6 +2399,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0219",
       "soru": "Fas'ın başkenti hangisidir?",
       "cevapA": "Fes",
       "cevapB": "Rabat",
@@ -2191,6 +2410,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0220",
       "soru": "Pakistan'ın başkenti hangisidir?",
       "cevapA": "İslamabad",
       "cevapB": "Peşaver",
@@ -2201,6 +2421,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0221",
       "soru": "Kazakistan'ın başkenti hangisidir?",
       "cevapA": "Karaganda",
       "cevapB": "Almatı",
@@ -2211,6 +2432,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0222",
       "soru": "Avogadro sabiti yaklaşık olarak kaçtır?",
       "cevapA": "3,00 × 10^8",
       "cevapB": "1,602 × 10^-19",
@@ -2221,6 +2443,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0223",
       "soru": "pH değeri 7 olan saf su nasıl tanımlanır?",
       "cevapA": "Bazik",
       "cevapB": "Tuzlu",
@@ -2231,6 +2454,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0224",
       "soru": "Atom numarası 6 olan element hangisidir?",
       "cevapA": "Karbon",
       "cevapB": "Bor",
@@ -2241,6 +2465,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0225",
       "soru": "Atom numarası 8 olan element hangisidir?",
       "cevapA": "Karbon",
       "cevapB": "Flor",
@@ -2251,6 +2476,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0226",
       "soru": "İnsanda normal somatik hücrede kaç kromozom vardır?",
       "cevapA": "23",
       "cevapB": "44",
@@ -2261,6 +2487,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0227",
       "soru": "Protein sentezinin gerçekleştiği organel hangisidir?",
       "cevapA": "Lizozom",
       "cevapB": "Sentrozom",
@@ -2271,6 +2498,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0228",
       "soru": "Hücrenin enerji üretiminde başlıca görevli organeli hangisidir?",
       "cevapA": "Çekirdekçik",
       "cevapB": "Mitokondri",
@@ -2281,6 +2509,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0229",
       "soru": "Yerçekimi ivmesi Dünya yüzeyinde yaklaşık kaç m/s²'dir?",
       "cevapA": "3,14",
       "cevapB": "9,81",
@@ -2291,6 +2520,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0230",
       "soru": "Elektrik akımının SI birimi hangisidir?",
       "cevapA": "Watt",
       "cevapB": "Volt",
@@ -2301,6 +2531,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0231",
       "soru": "Kuvvetin SI birimi hangisidir?",
       "cevapA": "Newton",
       "cevapB": "Pascal",
@@ -2311,6 +2542,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0232",
       "soru": "Suç ve Ceza romanının yazarı kimdir?",
       "cevapA": "Anton Çehov",
       "cevapB": "Maksim Gorki",
@@ -2321,6 +2553,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0233",
       "soru": "Don Kişot'un yazarı kimdir?",
       "cevapA": "Miguel de Cervantes",
       "cevapB": "Lope de Vega",
@@ -2331,6 +2564,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0234",
       "soru": "İlahi Komedya'nın yazarı kimdir?",
       "cevapA": "Machiavelli",
       "cevapB": "Boccaccio",
@@ -2341,6 +2575,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0235",
       "soru": "Mai ve Siyah romanının yazarı kimdir?",
       "cevapA": "Mehmet Rauf",
       "cevapB": "Recaizade Mahmut Ekrem",
@@ -2351,6 +2586,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0236",
       "soru": "Çanakkale Deniz Zaferi hangi yıl kazanılmıştır?",
       "cevapA": "1918",
       "cevapB": "1914",
@@ -2361,6 +2597,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0237",
       "soru": "Lozan Barış Antlaşması hangi yıl imzalanmıştır?",
       "cevapA": "1924",
       "cevapB": "1923",
@@ -2371,6 +2608,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0238",
       "soru": "Fransız Devrimi hangi yıl başlamıştır?",
       "cevapA": "1848",
       "cevapB": "1776",
@@ -2381,6 +2619,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0239",
       "soru": "Magna Carta hangi ülkede imzalanmıştır?",
       "cevapA": "Fransa",
       "cevapB": "İspanya",
@@ -2391,6 +2630,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0240",
       "soru": "Dünya'nın Güneş etrafındaki bir turu yaklaşık kaç gündür?",
       "cevapA": "360",
       "cevapB": "354",
@@ -2401,6 +2641,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0241",
       "soru": "Satürn'ün en büyük uydusu hangisidir?",
       "cevapA": "Europa",
       "cevapB": "Titan",
@@ -2411,6 +2652,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0242",
       "soru": "6x + 15 = 105 denkleminde x kaçtır?",
       "cevapA": "14",
       "cevapB": "16",
@@ -2421,6 +2663,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0243",
       "soru": "9x + 2 = 47 denkleminde x kaçtır?",
       "cevapA": "4",
       "cevapB": "6",
@@ -2431,6 +2674,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0244",
       "soru": "9x + 11 = 146 denkleminde x kaçtır?",
       "cevapA": "16",
       "cevapB": "17",
@@ -2441,6 +2685,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0245",
       "soru": "6x + 11 = 113 denkleminde x kaçtır?",
       "cevapA": "19",
       "cevapB": "18",
@@ -2451,6 +2696,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0246",
       "soru": "4x + 13 = 53 denkleminde x kaçtır?",
       "cevapA": "9",
       "cevapB": "10",
@@ -2461,6 +2707,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0247",
       "soru": "9x + 3 = 174 denkleminde x kaçtır?",
       "cevapA": "19",
       "cevapB": "20",
@@ -2471,6 +2718,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0248",
       "soru": "5x + 3 = 68 denkleminde x kaçtır?",
       "cevapA": "14",
       "cevapB": "15",
@@ -2481,6 +2729,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0249",
       "soru": "6x + 15 = 75 denkleminde x kaçtır?",
       "cevapA": "9",
       "cevapB": "12",
@@ -2491,6 +2740,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0250",
       "soru": "7x + 6 = 76 denkleminde x kaçtır?",
       "cevapA": "12",
       "cevapB": "10",
@@ -2501,6 +2751,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0251",
       "soru": "3x + 8 = 62 denkleminde x kaçtır?",
       "cevapA": "20",
       "cevapB": "19",
@@ -2511,6 +2762,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0252",
       "soru": "8x + 13 = 157 denkleminde x kaçtır?",
       "cevapA": "19",
       "cevapB": "17",
@@ -2521,6 +2773,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0253",
       "soru": "4x + 10 = 78 denkleminde x kaçtır?",
       "cevapA": "17",
       "cevapB": "18",
@@ -2531,6 +2784,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0254",
       "soru": "7x + 12 = 82 denkleminde x kaçtır?",
       "cevapA": "12",
       "cevapB": "11",
@@ -2541,6 +2795,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0255",
       "soru": "8x + 10 = 90 denkleminde x kaçtır?",
       "cevapA": "12",
       "cevapB": "11",
@@ -2551,6 +2806,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0256",
       "soru": "9x + 14 = 149 denkleminde x kaçtır?",
       "cevapA": "14",
       "cevapB": "15",
@@ -2561,6 +2817,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0257",
       "soru": "6x + 4 = 64 denkleminde x kaçtır?",
       "cevapA": "10",
       "cevapB": "9",
@@ -2571,6 +2828,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0258",
       "soru": "8x + 13 = 165 denkleminde x kaçtır?",
       "cevapA": "21",
       "cevapB": "18",
@@ -2581,6 +2839,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0259",
       "soru": "9x + 9 = 153 denkleminde x kaçtır?",
       "cevapA": "18",
       "cevapB": "16",
@@ -2591,6 +2850,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0260",
       "soru": "5x + 14 = 34 denkleminde x kaçtır?",
       "cevapA": "6",
       "cevapB": "5",
@@ -2601,6 +2861,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0261",
       "soru": "8x + 10 = 170 denkleminde x kaçtır?",
       "cevapA": "22",
       "cevapB": "21",
@@ -2611,6 +2872,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0262",
       "soru": "7x + 11 = 88 denkleminde x kaçtır?",
       "cevapA": "11",
       "cevapB": "13",
@@ -2621,6 +2883,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0263",
       "soru": "4x + 11 = 83 denkleminde x kaçtır?",
       "cevapA": "17",
       "cevapB": "20",
@@ -2631,6 +2894,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0264",
       "soru": "7x + 7 = 98 denkleminde x kaçtır?",
       "cevapA": "14",
       "cevapB": "12",
@@ -2641,6 +2905,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0265",
       "soru": "3x + 9 = 39 denkleminde x kaçtır?",
       "cevapA": "9",
       "cevapB": "10",
@@ -2651,6 +2916,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0266",
       "soru": "7x + 2 = 30 denkleminde x kaçtır?",
       "cevapA": "3",
       "cevapB": "5",
@@ -2661,6 +2927,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0267",
       "soru": "3x + 2 = 47 denkleminde x kaçtır?",
       "cevapA": "17",
       "cevapB": "15",
@@ -2671,6 +2938,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0268",
       "soru": "4x + 2 = 38 denkleminde x kaçtır?",
       "cevapA": "9",
       "cevapB": "8",
@@ -2681,6 +2949,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0269",
       "soru": "5x + 5 = 100 denkleminde x kaçtır?",
       "cevapA": "18",
       "cevapB": "20",
@@ -2691,6 +2960,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0270",
       "soru": "5x + 13 = 88 denkleminde x kaçtır?",
       "cevapA": "17",
       "cevapB": "16",
@@ -2701,6 +2971,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0271",
       "soru": "3x + 3 = 57 denkleminde x kaçtır?",
       "cevapA": "19",
       "cevapB": "20",
@@ -2711,6 +2982,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0272",
       "soru": "5x + 15 = 50 denkleminde x kaçtır?",
       "cevapA": "7",
       "cevapB": "9",
@@ -2721,6 +2993,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0273",
       "soru": "5x + 9 = 79 denkleminde x kaçtır?",
       "cevapA": "13",
       "cevapB": "15",
@@ -2731,6 +3004,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0274",
       "soru": "7x + 6 = 34 denkleminde x kaçtır?",
       "cevapA": "6",
       "cevapB": "4",
@@ -2741,6 +3015,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0275",
       "soru": "3x + 11 = 50 denkleminde x kaçtır?",
       "cevapA": "14",
       "cevapB": "12",
@@ -2751,6 +3026,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0276",
       "soru": "7x + 3 = 108 denkleminde x kaçtır?",
       "cevapA": "16",
       "cevapB": "15",
@@ -2761,6 +3037,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0277",
       "soru": "3² + 6 × 2 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "24",
@@ -2771,6 +3048,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0278",
       "soru": "3² + 2 × 10 işleminin sonucu kaçtır?",
       "cevapA": "32",
       "cevapB": "29",
@@ -2781,6 +3059,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0279",
       "soru": "11² + 7 × 4 işleminin sonucu kaçtır?",
       "cevapA": "149",
       "cevapB": "153",
@@ -2791,6 +3070,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0280",
       "soru": "10² + 2 × 2 işleminin sonucu kaçtır?",
       "cevapA": "106",
       "cevapB": "102",
@@ -2801,6 +3081,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0281",
       "soru": "8² + 6 × 7 işleminin sonucu kaçtır?",
       "cevapA": "114",
       "cevapB": "113",
@@ -2811,6 +3092,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0282",
       "soru": "11² + 3 × 4 işleminin sonucu kaçtır?",
       "cevapA": "137",
       "cevapB": "130",
@@ -2821,6 +3103,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0283",
       "soru": "10² + 4 × 9 işleminin sonucu kaçtır?",
       "cevapA": "132",
       "cevapB": "145",
@@ -2831,6 +3114,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0284",
       "soru": "5² + 4 × 4 işleminin sonucu kaçtır?",
       "cevapA": "46",
       "cevapB": "37",
@@ -2841,6 +3125,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0285",
       "soru": "9² + 2 × 9 işleminin sonucu kaçtır?",
       "cevapA": "99",
       "cevapB": "108",
@@ -2851,6 +3136,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0286",
       "soru": "10² + 4 × 6 işleminin sonucu kaçtır?",
       "cevapA": "134",
       "cevapB": "130",
@@ -2861,6 +3147,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0287",
       "soru": "3² + 8 × 6 işleminin sonucu kaçtır?",
       "cevapA": "49",
       "cevapB": "63",
@@ -2871,6 +3158,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0288",
       "soru": "10² + 2 × 8 işleminin sonucu kaçtır?",
       "cevapA": "114",
       "cevapB": "124",
@@ -2881,6 +3169,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0289",
       "soru": "3² + 2 × 3 işleminin sonucu kaçtır?",
       "cevapA": "13",
       "cevapB": "18",
@@ -2891,6 +3180,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0290",
       "soru": "7² + 7 × 9 işleminin sonucu kaçtır?",
       "cevapA": "121",
       "cevapB": "119",
@@ -2901,6 +3191,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0291",
       "soru": "12² + 3 × 4 işleminin sonucu kaçtır?",
       "cevapA": "168",
       "cevapB": "160",
@@ -2911,6 +3202,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0292",
       "soru": "10² + 5 × 3 işleminin sonucu kaçtır?",
       "cevapA": "118",
       "cevapB": "125",
@@ -2921,6 +3213,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0293",
       "soru": "11² + 5 × 2 işleminin sonucu kaçtır?",
       "cevapA": "126",
       "cevapB": "133",
@@ -2931,6 +3224,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0294",
       "soru": "12² + 7 × 6 işleminin sonucu kaçtır?",
       "cevapA": "192",
       "cevapB": "198",
@@ -2941,6 +3235,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0295",
       "soru": "11² + 2 × 2 işleminin sonucu kaçtır?",
       "cevapA": "127",
       "cevapB": "125",
@@ -2951,6 +3246,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0296",
       "soru": "4² + 3 × 10 işleminin sonucu kaçtır?",
       "cevapA": "56",
       "cevapB": "50",
@@ -2961,6 +3257,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0297",
       "soru": "3² + 7 × 3 işleminin sonucu kaçtır?",
       "cevapA": "23",
       "cevapB": "30",
@@ -2971,6 +3268,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0298",
       "soru": "12² + 2 × 4 işleminin sonucu kaçtır?",
       "cevapA": "164",
       "cevapB": "150",
@@ -2981,6 +3279,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0299",
       "soru": "3² + 3 × 6 işleminin sonucu kaçtır?",
       "cevapA": "33",
       "cevapB": "24",
@@ -2991,6 +3290,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0300",
       "soru": "11² + 8 × 6 işleminin sonucu kaçtır?",
       "cevapA": "175",
       "cevapB": "180",
@@ -3001,6 +3301,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0301",
       "soru": "11² + 3 × 6 işleminin sonucu kaçtır?",
       "cevapA": "145",
       "cevapB": "139",
@@ -3011,6 +3312,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0302",
       "soru": "7² + 3 × 8 işleminin sonucu kaçtır?",
       "cevapA": "81",
       "cevapB": "80",
@@ -3021,6 +3323,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0303",
       "soru": "4² + 8 × 8 işleminin sonucu kaçtır?",
       "cevapA": "88",
       "cevapB": "84",
@@ -3031,6 +3334,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0304",
       "soru": "6² + 4 × 10 işleminin sonucu kaçtır?",
       "cevapA": "72",
       "cevapB": "86",
@@ -3041,6 +3345,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0305",
       "soru": "10² + 7 × 9 işleminin sonucu kaçtır?",
       "cevapA": "172",
       "cevapB": "156",
@@ -3051,6 +3356,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0306",
       "soru": "10² + 2 × 5 işleminin sonucu kaçtır?",
       "cevapA": "108",
       "cevapB": "120",
@@ -3061,6 +3367,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0307",
       "soru": "1'den 7'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "35",
       "cevapB": "27",
@@ -3071,6 +3378,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0308",
       "soru": "1'den 10'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "54",
       "cevapB": "100",
@@ -3081,6 +3389,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0309",
       "soru": "1'den 3'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "6",
       "cevapB": "9",
@@ -3091,6 +3400,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0310",
       "soru": "1'den 4'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "16",
       "cevapB": "9",
@@ -3101,6 +3411,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0311",
       "soru": "1'den 9'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "81",
       "cevapB": "45",
@@ -3111,6 +3422,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0312",
       "soru": "1'den 8'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "44",
       "cevapB": "64",
@@ -3121,6 +3433,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0313",
       "soru": "1'den 5'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "14",
       "cevapB": "25",
@@ -3131,6 +3444,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0314",
       "soru": "Bhutan'ın başkenti hangisidir?",
       "cevapA": "Punakha",
       "cevapB": "Paro",
@@ -3141,6 +3455,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0315",
       "soru": "Moğolistan'ın başkenti hangisidir?",
       "cevapA": "Ulan Batur",
       "cevapB": "Darkhan",
@@ -3151,6 +3466,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0316",
       "soru": "Etiyopya'nın başkenti hangisidir?",
       "cevapA": "Dire Dawa",
       "cevapB": "Mekele",
@@ -3161,6 +3477,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0317",
       "soru": "Namibya'nın başkenti hangisidir?",
       "cevapA": "Walvis Bay",
       "cevapB": "Lüderitz",
@@ -3171,6 +3488,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0318",
       "soru": "Sri Lanka'nın yasama başkenti hangisidir?",
       "cevapA": "Galle",
       "cevapB": "Kolombo",
@@ -3181,6 +3499,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0319",
       "soru": "Atom numarası 26 olan element hangisidir?",
       "cevapA": "Kobalt",
       "cevapB": "Nikel",
@@ -3191,6 +3510,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0320",
       "soru": "Atom numarası 29 olan element hangisidir?",
       "cevapA": "Nikel",
       "cevapB": "Çinko",
@@ -3201,6 +3521,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0321",
       "soru": "Atom numarası 47 olan element hangisidir?",
       "cevapA": "Gümüş",
       "cevapB": "Paladyum",
@@ -3211,6 +3532,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0322",
       "soru": "SI sisteminde madde miktarı birimi hangisidir?",
       "cevapA": "Mol",
       "cevapB": "Molar",
@@ -3221,6 +3543,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0323",
       "soru": "Planck sabitinin sembolü hangisidir?",
       "cevapA": "k",
       "cevapB": "h",
@@ -3231,6 +3554,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0324",
       "soru": "Elektrik direncinin SI birimi hangisidir?",
       "cevapA": "Tesla",
       "cevapB": "Ohm",
@@ -3241,6 +3565,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0325",
       "soru": "Manyetik akı yoğunluğunun SI birimi hangisidir?",
       "cevapA": "Tesla",
       "cevapB": "Henry",
@@ -3251,6 +3576,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0326",
       "soru": "DNA'nın çift sarmal modeliyle özdeşleşen bilim insanlarından biri kimdir?",
       "cevapA": "Gregor Mendel",
       "cevapB": "Robert Hooke",
@@ -3261,6 +3587,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0327",
       "soru": "Krebs döngüsü ökaryot hücrelerde başlıca nerede gerçekleşir?",
       "cevapA": "Golgi aygıtı",
       "cevapB": "Mitokondri matriksi",
@@ -3271,6 +3598,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0328",
       "soru": "İnsülin hormonu hangi organda üretilir?",
       "cevapA": "Böbrek",
       "cevapB": "Dalak",
@@ -3281,6 +3609,7 @@
       "kategori": "Biyoloji"
     },
     {
+      "id": "Q0329",
       "soru": "Ulysses romanının yazarı kimdir?",
       "cevapA": "Virginia Woolf",
       "cevapB": "James Joyce",
@@ -3291,6 +3620,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0330",
       "soru": "Dönüşüm adlı eserin yazarı kimdir?",
       "cevapA": "Thomas Mann",
       "cevapB": "Franz Kafka",
@@ -3301,6 +3631,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0331",
       "soru": "Madame Bovary'nin yazarı kimdir?",
       "cevapA": "Victor Hugo",
       "cevapB": "Émile Zola",
@@ -3311,6 +3642,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0332",
       "soru": "Aşk-ı Memnu'nun yazarı kimdir?",
       "cevapA": "Yakup Kadri Karaosmanoğlu",
       "cevapB": "Halit Ziya Uşaklıgil",
@@ -3321,6 +3653,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0333",
       "soru": "Westphalia Barışı hangi yıl imzalanmıştır?",
       "cevapA": "1713",
       "cevapB": "1648",
@@ -3331,6 +3664,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0334",
       "soru": "Amerikan Bağımsızlık Bildirgesi hangi yıl ilan edilmiştir?",
       "cevapA": "1776",
       "cevapB": "1812",
@@ -3341,6 +3675,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0335",
       "soru": "Berlin Duvarı hangi yıl yıkılmıştır?",
       "cevapA": "1991",
       "cevapB": "1989",
@@ -3351,6 +3686,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0336",
       "soru": "Konstantinopolis'in Latinler tarafından işgal edildiği Dördüncü Haçlı Seferi hangi yılda gerçekleşmiştir?",
       "cevapA": "1187",
       "cevapB": "1261",
@@ -3361,6 +3697,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0337",
       "soru": "Güneş'e en yakın yıldız sistemi hangisidir?",
       "cevapA": "Sirius sistemi",
       "cevapB": "Alpha Centauri sistemi",
@@ -3371,6 +3708,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0338",
       "soru": "Mars'ın en büyük uydusu hangisidir?",
       "cevapA": "Phobos",
       "cevapB": "Deimos",
@@ -3381,6 +3719,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0339",
       "soru": "15 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "225",
       "cevapB": "120",
@@ -3391,6 +3730,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0340",
       "soru": "14 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "90",
       "cevapB": "91",
@@ -3401,6 +3741,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0341",
       "soru": "13 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "91",
       "cevapB": "169",
@@ -3411,6 +3752,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0342",
       "soru": "9 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "81",
       "cevapB": "35",
@@ -3421,6 +3763,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0343",
       "soru": "11 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "55",
       "cevapB": "121",
@@ -3431,6 +3774,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0344",
       "soru": "5 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "15",
       "cevapB": "10",
@@ -3441,6 +3785,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0345",
       "soru": "8 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "28",
       "cevapB": "27",
@@ -3451,6 +3796,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0346",
       "soru": "10 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "44",
       "cevapB": "100",
@@ -3461,6 +3807,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0347",
       "soru": "12 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "78",
       "cevapB": "66",
@@ -3471,6 +3818,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0348",
       "soru": "6 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "15",
       "cevapB": "36",
@@ -3481,6 +3829,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0349",
       "soru": "7 elemanlı bir kümeden 2 eleman kaç farklı şekilde seçilir?",
       "cevapA": "49",
       "cevapB": "28",
@@ -3491,6 +3840,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0350",
       "soru": "3^2 - 6 işleminin sonucu kaçtır?",
       "cevapA": "5",
       "cevapB": "3",
@@ -3501,6 +3851,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0351",
       "soru": "6^2 - 6 işleminin sonucu kaçtır?",
       "cevapA": "30",
       "cevapB": "32",
@@ -3511,6 +3862,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0352",
       "soru": "4^5 - 5 işleminin sonucu kaçtır?",
       "cevapA": "1014",
       "cevapB": "1024",
@@ -3521,6 +3873,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0353",
       "soru": "4^5 - 3 işleminin sonucu kaçtır?",
       "cevapA": "1021",
       "cevapB": "1026",
@@ -3531,6 +3884,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0354",
       "soru": "4^5 - 4 işleminin sonucu kaçtır?",
       "cevapA": "1025",
       "cevapB": "1020",
@@ -3541,6 +3895,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0355",
       "soru": "7^4 - 5 işleminin sonucu kaçtır?",
       "cevapA": "2391",
       "cevapB": "2400",
@@ -3551,6 +3906,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0356",
       "soru": "2^2 - 5 işleminin sonucu kaçtır?",
       "cevapA": "-1",
       "cevapB": "1",
@@ -3561,6 +3917,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0357",
       "soru": "4^3 - 4 işleminin sonucu kaçtır?",
       "cevapA": "64",
       "cevapB": "60",
@@ -3571,6 +3928,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0358",
       "soru": "8^5 - 6 işleminin sonucu kaçtır?",
       "cevapA": "32770",
       "cevapB": "32756",
@@ -3581,6 +3939,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0359",
       "soru": "5^4 - 3 işleminin sonucu kaçtır?",
       "cevapA": "619",
       "cevapB": "627",
@@ -3591,6 +3950,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0360",
       "soru": "8^3 - 2 işleminin sonucu kaçtır?",
       "cevapA": "518",
       "cevapB": "513",
@@ -3601,6 +3961,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0361",
       "soru": "6^4 - 3 işleminin sonucu kaçtır?",
       "cevapA": "1293",
       "cevapB": "1299",
@@ -3611,6 +3972,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0362",
       "soru": "8^2 - 3 işleminin sonucu kaçtır?",
       "cevapA": "63",
       "cevapB": "69",
@@ -3621,6 +3983,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0363",
       "soru": "5^5 - 3 işleminin sonucu kaçtır?",
       "cevapA": "3127",
       "cevapB": "3122",
@@ -3631,6 +3994,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0364",
       "soru": "3^2 - 3 işleminin sonucu kaçtır?",
       "cevapA": "9",
       "cevapB": "3",
@@ -3641,6 +4005,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0365",
       "soru": "8^5 - 2 işleminin sonucu kaçtır?",
       "cevapA": "32774",
       "cevapB": "32764",
@@ -3651,6 +4016,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0366",
       "soru": "8^4 - 4 işleminin sonucu kaçtır?",
       "cevapA": "4096",
       "cevapB": "4092",
@@ -3661,6 +4027,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0367",
       "soru": "2^3 - 5 işleminin sonucu kaçtır?",
       "cevapA": "6",
       "cevapB": "3",
@@ -3671,6 +4038,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0368",
       "soru": "8^4 - 3 işleminin sonucu kaçtır?",
       "cevapA": "4097",
       "cevapB": "4090",
@@ -3681,6 +4049,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0369",
       "soru": "4^4 - 3 işleminin sonucu kaçtır?",
       "cevapA": "253",
       "cevapB": "250",
@@ -3691,6 +4060,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0370",
       "soru": "4^4 - 6 işleminin sonucu kaçtır?",
       "cevapA": "254",
       "cevapB": "254",
@@ -3701,6 +4071,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0371",
       "soru": "7^4 - 2 işleminin sonucu kaçtır?",
       "cevapA": "2397",
       "cevapB": "2406",
@@ -3711,6 +4082,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0372",
       "soru": "8^3 - 5 işleminin sonucu kaçtır?",
       "cevapA": "507",
       "cevapB": "510",
@@ -3721,6 +4093,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0373",
       "soru": "8 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "26",
       "cevapB": "28",
@@ -3731,6 +4104,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0374",
       "soru": "7 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "19",
       "cevapB": "28",
@@ -3741,6 +4115,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0375",
       "soru": "9 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "81",
       "cevapB": "45",
@@ -3751,6 +4126,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0376",
       "soru": "6 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "15",
       "cevapB": "36",
@@ -3761,6 +4137,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0377",
       "soru": "12 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "66",
       "cevapB": "144",
@@ -3771,6 +4148,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0378",
       "soru": "11 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "55",
       "cevapB": "66",
@@ -3781,6 +4159,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0379",
       "soru": "10 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "100",
       "cevapB": "43",
@@ -3791,6 +4170,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0380",
       "soru": "Burkina Faso'nun başkenti hangisidir?",
       "cevapA": "Bobo-Dioulasso",
       "cevapB": "Ouagadougou",
@@ -3801,6 +4181,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0381",
       "soru": "Kırgızistan'ın başkenti hangisidir?",
       "cevapA": "Karakol",
       "cevapB": "Narin",
@@ -3811,6 +4192,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0382",
       "soru": "Tacikistan'ın başkenti hangisidir?",
       "cevapA": "Hocand",
       "cevapB": "Kulob",
@@ -3821,6 +4203,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0383",
       "soru": "Eritre'nin başkenti hangisidir?",
       "cevapA": "Massawa",
       "cevapB": "Asmara",
@@ -3831,6 +4214,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0384",
       "soru": "Madagaskar'ın başkenti hangisidir?",
       "cevapA": "Antsirabe",
       "cevapB": "Antananarivo",
@@ -3841,6 +4225,7 @@
       "kategori": "Coğrafya"
     },
     {
+      "id": "Q0385",
       "soru": "Atom numarası 79 olan element hangisidir?",
       "cevapA": "Cıva",
       "cevapB": "Platin",
@@ -3851,6 +4236,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0386",
       "soru": "Atom numarası 74 olan element hangisidir?",
       "cevapA": "Tungsten",
       "cevapB": "Renium",
@@ -3861,6 +4247,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0387",
       "soru": "Element sembolü Sb olan element hangisidir?",
       "cevapA": "Bizmut",
       "cevapB": "Kalay",
@@ -3871,6 +4258,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0388",
       "soru": "Element sembolü W olan element hangisidir?",
       "cevapA": "Tellür",
       "cevapB": "Volfram dışı başka element",
@@ -3881,6 +4269,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0389",
       "soru": "Faraday sabiti yaklaşık kaç C/mol'dür?",
       "cevapA": "96485",
       "cevapB": "6022",
@@ -3891,6 +4280,7 @@
       "kategori": "Kimya"
     },
     {
+      "id": "Q0390",
       "soru": "Boltzmann sabitinin sembolü hangisidir?",
       "cevapA": "h",
       "cevapB": "G",
@@ -3901,6 +4291,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0391",
       "soru": "Elektrik yükünün SI birimi hangisidir?",
       "cevapA": "Coulomb",
       "cevapB": "Henry",
@@ -3911,6 +4302,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0392",
       "soru": "İndüktansın SI birimi hangisidir?",
       "cevapA": "Tesla",
       "cevapB": "Henry",
@@ -3921,6 +4313,7 @@
       "kategori": "Fizik"
     },
     {
+      "id": "Q0393",
       "soru": "Hubble sabiti en doğrudan hangi olguyla ilişkilidir?",
       "cevapA": "Dünya'nın dönüşü",
       "cevapB": "Güneş lekeleri",
@@ -3931,6 +4324,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0394",
       "soru": "Güneş'in tayf sınıfı hangisidir?",
       "cevapA": "A0V",
       "cevapB": "G2V",
@@ -3941,6 +4335,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0395",
       "soru": "Neptün'ün en büyük uydusu hangisidir?",
       "cevapA": "Proteus",
       "cevapB": "Nereid",
@@ -3951,6 +4346,7 @@
       "kategori": "Astronomi"
     },
     {
+      "id": "Q0396",
       "soru": "Karamazov Kardeşler'in yazarı kimdir?",
       "cevapA": "Ivan Turgenyev",
       "cevapB": "Aleksandr Puşkin",
@@ -3961,6 +4357,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0397",
       "soru": "Kayıp Zamanın İzinde'nin yazarı kimdir?",
       "cevapA": "André Gide",
       "cevapB": "Jean-Paul Sartre",
@@ -3971,6 +4368,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0398",
       "soru": "Ses ve Öfke romanının yazarı kimdir?",
       "cevapA": "F. Scott Fitzgerald",
       "cevapB": "William Faulkner",
@@ -3981,6 +4379,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0399",
       "soru": "Moby Dick'in yazarı kimdir?",
       "cevapA": "Nathaniel Hawthorne",
       "cevapB": "Mark Twain",
@@ -3991,6 +4390,7 @@
       "kategori": "Edebiyat"
     },
     {
+      "id": "Q0400",
       "soru": "Otuz Yıl Savaşları hangi yıllar arasında gerçekleşmiştir?",
       "cevapA": "1618-1648",
       "cevapB": "1588-1618",
@@ -4001,6 +4401,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0401",
       "soru": "Viyana Kongresi hangi yıl başlamıştır?",
       "cevapA": "1789",
       "cevapB": "1814",
@@ -4011,6 +4412,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0402",
       "soru": "Bizans İmparatorluğu'nun son imparatoru kimdir?",
       "cevapA": "XI. Konstantinos Palaiologos",
       "cevapB": "VI. Leon",
@@ -4021,6 +4423,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0403",
       "soru": "Hicri takvimin başlangıcı hangi olaya dayanır?",
       "cevapA": "Hicret",
       "cevapB": "Bedir Savaşı",
@@ -4031,6 +4434,7 @@
       "kategori": "Tarih"
     },
     {
+      "id": "Q0404",
       "soru": "İlk Nobel Fizik Ödülü'nü kim kazanmıştır?",
       "cevapA": "Niels Bohr",
       "cevapB": "Albert Einstein",
@@ -4041,6 +4445,7 @@
       "kategori": "Bilim Tarihi"
     },
     {
+      "id": "Q0405",
       "soru": "7x + 18 = 39 olduğuna göre x kaçtır?",
       "cevapA": "5",
       "cevapB": "2",
@@ -4051,6 +4456,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0406",
       "soru": "6x + 7 = 85 olduğuna göre x kaçtır?",
       "cevapA": "15",
       "cevapB": "12",
@@ -4061,6 +4467,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0407",
       "soru": "4x + 11 = 75 olduğuna göre x kaçtır?",
       "cevapA": "17",
       "cevapB": "15",
@@ -4071,6 +4478,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0408",
       "soru": "8x + 4 = 156 olduğuna göre x kaçtır?",
       "cevapA": "21",
       "cevapB": "20",
@@ -4081,6 +4489,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0409",
       "soru": "9x + 11 = 83 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "9",
@@ -4091,6 +4500,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0410",
       "soru": "3x + 18 = 42 olduğuna göre x kaçtır?",
       "cevapA": "8",
       "cevapB": "7",
@@ -4101,6 +4511,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0411",
       "soru": "4x + 9 = 53 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "12",
@@ -4111,6 +4522,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0412",
       "soru": "8x + 19 = 107 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "12",
@@ -4121,6 +4533,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0413",
       "soru": "8x + 9 = 137 olduğuna göre x kaçtır?",
       "cevapA": "17",
       "cevapB": "18",
@@ -4131,6 +4544,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0414",
       "soru": "3x + 5 = 38 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "12",
@@ -4141,6 +4555,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0415",
       "soru": "5x + 8 = 98 olduğuna göre x kaçtır?",
       "cevapA": "17",
       "cevapB": "20",
@@ -4151,6 +4566,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0416",
       "soru": "9x + 1 = 28 olduğuna göre x kaçtır?",
       "cevapA": "3",
       "cevapB": "5",
@@ -4161,6 +4577,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0417",
       "soru": "8x + 16 = 80 olduğuna göre x kaçtır?",
       "cevapA": "8",
       "cevapB": "7",
@@ -4171,6 +4588,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0418",
       "soru": "6x + 11 = 29 olduğuna göre x kaçtır?",
       "cevapA": "5",
       "cevapB": "3",
@@ -4181,6 +4599,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0419",
       "soru": "9x + 20 = 155 olduğuna göre x kaçtır?",
       "cevapA": "14",
       "cevapB": "16",
@@ -4191,6 +4610,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0420",
       "soru": "2x + 11 = 29 olduğuna göre x kaçtır?",
       "cevapA": "8",
       "cevapB": "9",
@@ -4201,6 +4621,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0421",
       "soru": "7x + 1 = 106 olduğuna göre x kaçtır?",
       "cevapA": "17",
       "cevapB": "16",
@@ -4211,6 +4632,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0422",
       "soru": "7x + 18 = 88 olduğuna göre x kaçtır?",
       "cevapA": "12",
       "cevapB": "11",
@@ -4221,6 +4643,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0423",
       "soru": "4x + 14 = 30 olduğuna göre x kaçtır?",
       "cevapA": "4",
       "cevapB": "5",
@@ -4231,6 +4654,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0424",
       "soru": "7x + 1 = 78 olduğuna göre x kaçtır?",
       "cevapA": "13",
       "cevapB": "12",
@@ -4241,6 +4665,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0425",
       "soru": "7x + 7 = 91 olduğuna göre x kaçtır?",
       "cevapA": "12",
       "cevapB": "13",
@@ -4251,6 +4676,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0426",
       "soru": "7x + 11 = 137 olduğuna göre x kaçtır?",
       "cevapA": "20",
       "cevapB": "19",
@@ -4261,6 +4687,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0427",
       "soru": "3x + 7 = 43 olduğuna göre x kaçtır?",
       "cevapA": "11",
       "cevapB": "13",
@@ -4271,6 +4698,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0428",
       "soru": "2x + 13 = 25 olduğuna göre x kaçtır?",
       "cevapA": "6",
       "cevapB": "7",
@@ -4281,6 +4709,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0429",
       "soru": "6x + 13 = 31 olduğuna göre x kaçtır?",
       "cevapA": "3",
       "cevapB": "5",
@@ -4291,6 +4720,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0430",
       "soru": "6x + 19 = 37 olduğuna göre x kaçtır?",
       "cevapA": "5",
       "cevapB": "3",
@@ -4301,6 +4731,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0431",
       "soru": "8x + 10 = 74 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "7",
@@ -4311,6 +4742,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0432",
       "soru": "2x + 14 = 20 olduğuna göre x kaçtır?",
       "cevapA": "3",
       "cevapB": "5",
@@ -4321,6 +4753,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0433",
       "soru": "9x + 13 = 130 olduğuna göre x kaçtır?",
       "cevapA": "14",
       "cevapB": "13",
@@ -4331,6 +4764,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0434",
       "soru": "4x + 6 = 46 olduğuna göre x kaçtır?",
       "cevapA": "12",
       "cevapB": "9",
@@ -4341,6 +4775,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0435",
       "soru": "2x + 13 = 53 olduğuna göre x kaçtır?",
       "cevapA": "19",
       "cevapB": "22",
@@ -4351,6 +4786,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0436",
       "soru": "3x + 11 = 59 olduğuna göre x kaçtır?",
       "cevapA": "18",
       "cevapB": "15",
@@ -4361,6 +4797,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0437",
       "soru": "6x + 3 = 45 olduğuna göre x kaçtır?",
       "cevapA": "8",
       "cevapB": "7",
@@ -4371,6 +4808,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0438",
       "soru": "9x + 3 = 156 olduğuna göre x kaçtır?",
       "cevapA": "17",
       "cevapB": "19",
@@ -4381,6 +4819,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0439",
       "soru": "7x + 17 = 73 olduğuna göre x kaçtır?",
       "cevapA": "10",
       "cevapB": "9",
@@ -4391,6 +4830,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0440",
       "soru": "11 + 4 işleminin sonucu kaçtır?",
       "cevapA": "15",
       "cevapB": "14",
@@ -4401,6 +4841,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0441",
       "soru": "12 + 5 işleminin sonucu kaçtır?",
       "cevapA": "20",
       "cevapB": "17",
@@ -4411,6 +4852,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0442",
       "soru": "13 + 6 işleminin sonucu kaçtır?",
       "cevapA": "20",
       "cevapB": "22",
@@ -4421,6 +4863,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0443",
       "soru": "14 + 7 işleminin sonucu kaçtır?",
       "cevapA": "22",
       "cevapB": "20",
@@ -4431,6 +4874,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0444",
       "soru": "15 + 8 işleminin sonucu kaçtır?",
       "cevapA": "24",
       "cevapB": "22",
@@ -4441,6 +4885,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0445",
       "soru": "16 + 9 işleminin sonucu kaçtır?",
       "cevapA": "25",
       "cevapB": "28",
@@ -4451,6 +4896,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0446",
       "soru": "17 + 10 işleminin sonucu kaçtır?",
       "cevapA": "30",
       "cevapB": "28",
@@ -4461,6 +4907,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0447",
       "soru": "18 + 11 işleminin sonucu kaçtır?",
       "cevapA": "28",
       "cevapB": "32",
@@ -4471,6 +4918,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0448",
       "soru": "19 + 12 işleminin sonucu kaçtır?",
       "cevapA": "30",
       "cevapB": "31",
@@ -4481,6 +4929,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0449",
       "soru": "20 + 13 işleminin sonucu kaçtır?",
       "cevapA": "36",
       "cevapB": "32",
@@ -4491,6 +4940,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0450",
       "soru": "21 + 14 işleminin sonucu kaçtır?",
       "cevapA": "35",
       "cevapB": "36",
@@ -4501,6 +4951,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0451",
       "soru": "22 + 15 işleminin sonucu kaçtır?",
       "cevapA": "37",
       "cevapB": "36",
@@ -4511,6 +4962,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0452",
       "soru": "23 + 16 işleminin sonucu kaçtır?",
       "cevapA": "42",
       "cevapB": "38",
@@ -4521,6 +4973,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0453",
       "soru": "24 + 17 işleminin sonucu kaçtır?",
       "cevapA": "44",
       "cevapB": "40",
@@ -4531,6 +4984,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0454",
       "soru": "16 × 3 işleminin sonucu kaçtır?",
       "cevapA": "58",
       "cevapB": "45",
@@ -4541,6 +4995,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0455",
       "soru": "18 × 5 işleminin sonucu kaçtır?",
       "cevapA": "100",
       "cevapB": "90",
@@ -4551,6 +5006,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0456",
       "soru": "19 × 6 işleminin sonucu kaçtır?",
       "cevapA": "120",
       "cevapB": "108",
@@ -4561,6 +5017,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0457",
       "soru": "(4 + 3) × 3 işleminin sonucu kaçtır?",
       "cevapA": "24",
       "cevapB": "13",
@@ -4571,6 +5028,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0458",
       "soru": "(5 + 4) × 4 işleminin sonucu kaçtır?",
       "cevapA": "21",
       "cevapB": "40",
@@ -4581,6 +5039,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0459",
       "soru": "(6 + 5) × 5 işleminin sonucu kaçtır?",
       "cevapA": "31",
       "cevapB": "60",
@@ -4591,6 +5050,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0460",
       "soru": "(7 + 6) × 6 işleminin sonucu kaçtır?",
       "cevapA": "78",
       "cevapB": "84",
@@ -4601,6 +5061,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0461",
       "soru": "(8 + 7) × 7 işleminin sonucu kaçtır?",
       "cevapA": "105",
       "cevapB": "112",
@@ -4611,6 +5072,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0462",
       "soru": "(9 + 8) × 8 işleminin sonucu kaçtır?",
       "cevapA": "73",
       "cevapB": "144",
@@ -4621,6 +5083,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0463",
       "soru": "(10 + 9) × 2 işleminin sonucu kaçtır?",
       "cevapA": "40",
       "cevapB": "36",
@@ -4631,6 +5094,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0464",
       "soru": "1'den 11'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "121",
       "cevapB": "66",
@@ -4641,6 +5105,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0465",
       "soru": "1'den 12'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "90",
       "cevapB": "66",
@@ -4651,6 +5116,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0466",
       "soru": "1'den 13'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "104",
       "cevapB": "169",
@@ -4661,6 +5127,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0467",
       "soru": "1'den 14'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "119",
       "cevapB": "105",
@@ -4671,6 +5138,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0468",
       "soru": "1'den 15'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "120",
       "cevapB": "135",
@@ -4681,6 +5149,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0469",
       "soru": "1'den 16'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "152",
       "cevapB": "256",
@@ -4691,6 +5160,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0470",
       "soru": "1'den 17'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "153",
       "cevapB": "136",
@@ -4701,6 +5171,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0471",
       "soru": "1'den 18'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "324",
       "cevapB": "171",
@@ -4711,6 +5182,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0472",
       "soru": "1'den 19'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "171",
       "cevapB": "361",
@@ -4721,6 +5193,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0473",
       "soru": "1'den 20'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "400",
       "cevapB": "210",
@@ -4731,6 +5204,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0474",
       "soru": "1'den 21'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "252",
       "cevapB": "441",
@@ -4741,6 +5215,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0475",
       "soru": "1'den 22'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "253",
       "cevapB": "231",
@@ -4751,6 +5226,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0476",
       "soru": "1'den 23'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "529",
       "cevapB": "276",
@@ -4761,6 +5237,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0477",
       "soru": "1'den 24'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "324",
       "cevapB": "300",
@@ -4771,6 +5248,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0478",
       "soru": "1'den 25'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "350",
       "cevapB": "300",
@@ -4781,6 +5259,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0479",
       "soru": "1'den 26'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "377",
       "cevapB": "676",
@@ -4791,6 +5270,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0480",
       "soru": "1'den 27'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "405",
       "cevapB": "378",
@@ -4801,6 +5281,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0481",
       "soru": "1'den 28'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "378",
       "cevapB": "406",
@@ -4811,6 +5292,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0482",
       "soru": "1'den 29'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "841",
       "cevapB": "464",
@@ -4821,6 +5303,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0483",
       "soru": "1'den 30'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "465",
       "cevapB": "495",
@@ -4831,6 +5314,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0484",
       "soru": "1'den 31'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "496",
       "cevapB": "465",
@@ -4841,6 +5325,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0485",
       "soru": "1'den 32'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "1024",
       "cevapB": "528",
@@ -4851,6 +5336,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0486",
       "soru": "1'den 33'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "561",
       "cevapB": "1089",
@@ -4861,6 +5347,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0487",
       "soru": "1'den 34'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "561",
       "cevapB": "595",
@@ -4871,6 +5358,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0488",
       "soru": "1'den 35'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "665",
       "cevapB": "1225",
@@ -4881,6 +5369,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0489",
       "soru": "1'den 36'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "666",
       "cevapB": "1296",
@@ -4891,6 +5380,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0490",
       "soru": "1'den 37'e kadar olan tam sayıların toplamı kaçtır?",
       "cevapA": "1369",
       "cevapB": "666",
@@ -4901,6 +5391,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0491",
       "soru": "13 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "91",
       "cevapB": "169",
@@ -4911,6 +5402,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0492",
       "soru": "14 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "91",
       "cevapB": "105",
@@ -4921,6 +5413,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0493",
       "soru": "15 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "105",
       "cevapB": "225",
@@ -4931,6 +5424,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0494",
       "soru": "16 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "120",
       "cevapB": "104",
@@ -4941,6 +5435,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0495",
       "soru": "17 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "136",
       "cevapB": "289",
@@ -4951,6 +5446,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0496",
       "soru": "18 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "153",
       "cevapB": "135",
@@ -4961,6 +5457,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0497",
       "soru": "19 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "152",
       "cevapB": "190",
@@ -4971,6 +5468,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0498",
       "soru": "20 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "190",
       "cevapB": "210",
@@ -4981,6 +5479,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0499",
       "soru": "21 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "210",
       "cevapB": "231",
@@ -4991,6 +5490,7 @@
       "kategori": "Matematik"
     },
     {
+      "id": "Q0500",
       "soru": "22 farklı nesneden 2'si kaç farklı şekilde seçilebilir?",
       "cevapA": "231",
       "cevapB": "253",
