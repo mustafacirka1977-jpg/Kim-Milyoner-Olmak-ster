@@ -13,9 +13,9 @@
     {
       "soru": "İstiklal Marşı'nın yazarı kimdir?",
       "cevapA": "Namık Kemal",
-      "cevapB": "Yahya Kemal Beyatlı",
+      "cevapB": "Tevfik Fikret",
       "cevapC": "Mehmet Akif Ersoy",
-      "cevapD": "Tevfik Fikret",
+      "cevapD": "Yahya Kemal Beyatlı",
       "dogruCevap": 2,
       "zorluk": 1,
       "kategori": "Edebiyat"
@@ -41,14 +41,114 @@
       "kategori": "Bilim"
     },
     {
-      "soru": "DNA'nın açılımı hangisidir?",
-      "cevapA": "Deoksiribonükleik Asit",
-      "cevapB": "Dinamik Nükleik Asit",
-      "cevapC": "Deoksi Nitrik Asit",
-      "cevapD": "Diferansiyel Nükleik Asit",
+      "soru": "Türkiye Cumhuriyeti hangi yılda ilan edilmiştir?",
+      "cevapA": "1919",
+      "cevapB": "1920",
+      "cevapC": "1922",
+      "cevapD": "1923",
+      "dogruCevap": 3,
+      "zorluk": 1,
+      "kategori": "Tarih"
+    },
+    {
+      "soru": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+      "cevapA": "90",
+      "cevapB": "180",
+      "cevapC": "270",
+      "cevapD": "360",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Matematik"
+    },
+    {
+      "soru": "Fotosentez sırasında bitkiler atmosferden ağırlıklı olarak hangi gazı alır?",
+      "cevapA": "Oksijen",
+      "cevapB": "Azot",
+      "cevapC": "Karbondioksit",
+      "cevapD": "Hidrojen",
+      "dogruCevap": 2,
+      "zorluk": 2,
+      "kategori": "Biyoloji"
+    },
+    {
+      "soru": "Türkiye'nin yüzölçümü bakımından en büyük gölü hangisidir?",
+      "cevapA": "Tuz Gölü",
+      "cevapB": "Van Gölü",
+      "cevapC": "Beyşehir Gölü",
+      "cevapD": "Eğirdir Gölü",
+      "dogruCevap": 1,
+      "zorluk": 2,
+      "kategori": "Coğrafya"
+    },
+    {
+      "soru": "Periyodik tabloda 'Fe' sembolü hangi elementi gösterir?",
+      "cevapA": "Flor",
+      "cevapB": "Fosfor",
+      "cevapC": "Demir",
+      "cevapD": "Fransiyum",
+      "dogruCevap": 2,
+      "zorluk": 2,
+      "kategori": "Kimya"
+    },
+    {
+      "soru": "Nutuk adlı eserin yazarı kimdir?",
+      "cevapA": "Mustafa Kemal Atatürk",
+      "cevapB": "Ziya Gökalp",
+      "cevapC": "Halide Edip Adıvar",
+      "cevapD": "Yakup Kadri Karaosmanoğlu",
       "dogruCevap": 0,
       "zorluk": 2,
-      "kategori": "Bilim"
+      "kategori": "Tarih"
+    },
+    {
+      "soru": "İnsan vücudundaki en büyük organ hangisidir?",
+      "cevapA": "Karaciğer",
+      "cevapB": "Akciğer",
+      "cevapC": "Deri",
+      "cevapD": "Beyin",
+      "dogruCevap": 2,
+      "zorluk": 2,
+      "kategori": "Biyoloji"
+    },
+    {
+      "soru": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+      "cevapA": "Satürn",
+      "cevapB": "Jüpiter",
+      "cevapC": "Neptün",
+      "cevapD": "Dünya",
+      "dogruCevap": 1,
+      "zorluk": 2,
+      "kategori": "Astronomi"
+    },
+    {
+      "soru": "Avogadro sabiti yaklaşık olarak hangi değere eşittir?",
+      "cevapA": "6,022 × 10^23",
+      "cevapB": "9,81 × 10^2",
+      "cevapC": "3,00 × 10^8",
+      "cevapD": "1,602 × 10^-19",
+      "dogruCevap": 0,
+      "zorluk": 3,
+      "kategori": "Kimya"
+    },
+    {
+      "soru": "Divanü Lügati't-Türk adlı eserin yazarı kimdir?",
+      "cevapA": "Yusuf Has Hacib",
+      "cevapB": "Kaşgarlı Mahmud",
+      "cevapC": "Ali Şir Nevai",
+      "cevapD": "Ahmet Yesevi",
+      "dogruCevap": 1,
+      "zorluk": 3,
+      "kategori": "Edebiyat"
+    },
+    {
+      "soru": "Mitoz bölünmenin sonunda bir ana hücreden kaç yavru hücre oluşur?",
+      "cevapA": "1",
+      "cevapB": "2",
+      "cevapC": "3",
+      "cevapD": "4",
+      "dogruCevap": 1,
+      "zorluk": 3,
+      "kategori": "Biyoloji"
     }
   ]
 }
