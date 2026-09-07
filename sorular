@@ -1,0 +1,54 @@
+{
+  "sorular": [
+    {
+      "soru": "Türkiye'nin başkenti hangisidir?",
+      "cevapA": "İstanbul",
+      "cevapB": "Ankara",
+      "cevapC": "İzmir",
+      "cevapD": "Bursa",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Genel Kültür"
+    },
+    {
+      "soru": "İstiklal Marşı'nın yazarı kimdir?",
+      "cevapA": "Namık Kemal",
+      "cevapB": "Yahya Kemal Beyatlı",
+      "cevapC": "Mehmet Akif Ersoy",
+      "cevapD": "Tevfik Fikret",
+      "dogruCevap": 2,
+      "zorluk": 1,
+      "kategori": "Edebiyat"
+    },
+    {
+      "soru": "Dünyanın en büyük okyanusu hangisidir?",
+      "cevapA": "Atlas Okyanusu",
+      "cevapB": "Hint Okyanusu",
+      "cevapC": "Pasifik Okyanusu",
+      "cevapD": "Arktik Okyanusu",
+      "dogruCevap": 2,
+      "zorluk": 1,
+      "kategori": "Coğrafya"
+    },
+    {
+      "soru": "Suyun kimyasal formülü hangisidir?",
+      "cevapA": "CO2",
+      "cevapB": "H2O",
+      "cevapC": "O2",
+      "cevapD": "NaCl",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Bilim"
+    },
+    {
+      "soru": "DNA'nın açılımı hangisidir?",
+      "cevapA": "Deoksiribonükleik Asit",
+      "cevapB": "Dinamik Nükleik Asit",
+      "cevapC": "Deoksi Nitrik Asit",
+      "cevapD": "Diferansiyel Nükleik Asit",
+      "dogruCevap": 0,
+      "zorluk": 2,
+      "kategori": "Bilim"
+    }
+  ]
+}
