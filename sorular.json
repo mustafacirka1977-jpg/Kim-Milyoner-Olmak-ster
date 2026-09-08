@@ -24,7 +24,7 @@
     },
     {
       "id": "Q0003",
-      "soru": "*Gurk* hangi hayvanın erkeğine verilen isimdir?",
+      "soru": "Gurk hangi hayvanın erkeğine verilen isimdir?",
       "cevapA": "Hindi",
       "cevapB": "Deve",
       "cevapC": "Geyik",
@@ -156,7 +156,7 @@
     },
     {
       "id": "Q0015",
-      "soru": "Türkçeye Arapçadan geçen *muhteşem* kelimesinin kökeninin anlamı hangisidir?",
+      "soru": "Türkçeye Arapçadan geçen muhteşem kelimesinin kökeninin anlamı hangisidir?",
       "cevapA": "Askerler",
       "cevapB": "Hizmetçiler",
       "cevapC": "Köylüler",
@@ -200,7 +200,7 @@
     },
     {
       "id": "Q0019",
-      "soru": "Türkçeye Farsçadan geçen *zengin* kelimesinin köken anlamı hangisidir?",
+      "soru": "Türkçeye Farsçadan geçen zengin kelimesinin köken anlamı hangisidir?",
       "cevapA": "Deniz",
       "cevapB": "Kum",
       "cevapC": "Taş",
@@ -310,7 +310,7 @@
     },
     {
       "id": "Q0029",
-      "soru": "Eğer karşınızdaki ekranda *sezon finali* yazıyorsa hangisini izliyorsunuz demektir?",
+      "soru": "Eğer karşınızdaki ekranda sezon finali yazıyorsa hangisini izliyorsunuz demektir?",
       "cevapA": "Dizi",
       "cevapB": "Sinema",
       "cevapC": "Tiyatro",
