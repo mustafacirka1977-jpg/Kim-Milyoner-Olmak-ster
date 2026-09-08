@@ -717,11 +717,11 @@
     },
     {
       "id": "Q0066",
-      "soru": "20 sayısının %20'si kaçtır?",
-      "cevapA": "4",
-      "cevapB": "9",
-      "cevapC": "0",
-      "cevapD": "8",
+      "soru": "Hangisiyle yapılan kısa yolculuklarda ödenen ücret *indi bindi* sözüyle ifade edilir?",
+      "cevapA": "Minibüs",
+      "cevapB": "Tren",
+      "cevapC": "Uçak",
+      "cevapD": "Taksi",
       "dogruCevap": 0,
       "zorluk": 1,
       "kategori": "Matematik"
