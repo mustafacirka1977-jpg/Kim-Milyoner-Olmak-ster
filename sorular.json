@@ -135,10 +135,10 @@
     {
       "id": "Q0013",
       "soru": "22 + 18 işleminin sonucu kaçtır?",
-      "cevapA": "10",
-      "cevapB": "12",
-      "cevapC": "13",
-      "cevapD": "14",
+      "cevapA": "30",
+      "cevapB": "40",
+      "cevapC": "50",
+      "cevapD": "60",
       "dogruCevap": 1,
       "zorluk": 1,
       "kategori": "Matematik"
