@@ -20,7 +20,7 @@
       "cevapD": "Kaça gidiyorsun?",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0003",
@@ -31,7 +31,7 @@
       "cevapD": "Sincap",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0004",
@@ -53,7 +53,7 @@
       "cevapD": "Görgülü",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0006",
@@ -64,7 +64,7 @@
       "cevapD": "Klarnet",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Müzik"
     },
     {
       "id": "Q0007",
@@ -75,7 +75,7 @@
       "cevapD": "Ay sonuna kadar",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0008",
@@ -97,7 +97,7 @@
       "cevapD": "Tellal",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0010",
@@ -108,7 +108,7 @@
       "cevapD": "Şurup",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0011",
@@ -119,7 +119,7 @@
       "cevapD": "Mandarin",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0012",
@@ -141,7 +141,7 @@
       "cevapD": "Çöp",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0014",
@@ -152,7 +152,7 @@
       "cevapD": "Mağrur",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0015",
@@ -163,7 +163,7 @@
       "cevapD": "Efendiler",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Dil Bilgisi"
     },
     {
       "id": "Q0016",
@@ -174,7 +174,7 @@
       "cevapD": "Bir bakışta",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0017",
@@ -185,7 +185,7 @@
       "cevapD": "Yumurtaya",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0018",
@@ -196,7 +196,7 @@
       "cevapD": "Resmi geçit",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0019",
@@ -207,7 +207,7 @@
       "cevapD": "Altın",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Dil Bilgisi"
     },
     {
       "id": "Q0020",
@@ -218,7 +218,7 @@
       "cevapD": "Şaşkınlık",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0021",
@@ -229,7 +229,7 @@
       "cevapD": "Kristal vazo",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0022",
@@ -251,7 +251,7 @@
       "cevapD": "Hayranlık",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0024",
@@ -262,7 +262,7 @@
       "cevapD": "Gemi",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0025",
@@ -273,7 +273,7 @@
       "cevapD": "Yıldız Böceği",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Matematik"
+       "kategori": "Genel Kültür"
     },
     {
       "id": "Q0026",
@@ -284,7 +284,7 @@
       "cevapD": "Utandırıcı",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0027",
@@ -306,7 +306,7 @@
       "cevapD": "Dostluk kazandı",
       "dogruCevap": 2,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0029",
@@ -317,7 +317,7 @@
       "cevapD": "Maç",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Genel Kültür"
     },
     {
       "id": "Q0030",
@@ -365,11 +365,11 @@
     },
     {
       "id": "Q0034",
-      "soru": "9 × 3 işleminin sonucu kaçtır?",
-      "cevapA": "29",
-      "cevapB": "32",
-      "cevapC": "28",
-      "cevapD": "27",
+      "soru": "90 × 3 işleminin sonucu kaçtır?",
+      "cevapA": "290",
+      "cevapB": "320",
+      "cevapC": "280",
+      "cevapD": "270",
       "dogruCevap": 3,
       "zorluk": 1,
       "kategori": "Matematik"
@@ -387,11 +387,11 @@
     },
     {
       "id": "Q0036",
-      "soru": "10 × 9 işleminin sonucu kaçtır?",
-      "cevapA": "108",
-      "cevapB": "90",
-      "cevapC": "200",
-      "cevapD": "210",
+      "soru": "10 × 90 işleminin sonucu kaçtır?",
+      "cevapA": "1080",
+      "cevapB": "900",
+      "cevapC": "2000",
+      "cevapD": "2100",
       "dogruCevap": 1,
       "zorluk": 1,
       "kategori": "Matematik"
@@ -420,7 +420,7 @@
     },
     {
       "id": "Q0039",
-      "soru": "70 × 7 işleminin sonucu kaçtır?",
+      "soru": "75 × 7 işleminin sonucu kaçtır?",
       "cevapA": "560",
       "cevapB": "510",
       "cevapC": "420",
@@ -431,12 +431,12 @@
     },
     {
       "id": "Q0040",
-      "soru": "30 / 5 işleminin sonucu kaçtır?",
-      "cevapA": "6",
-      "cevapB": "5",
-      "cevapC": "7",
-      "cevapD": "8",
-      "dogruCevap": 0,
+      "soru": "60 / 5 işleminin sonucu kaçtır?",
+      "cevapA": "11",
+      "cevapB": "12",
+      "cevapC": "13",
+      "cevapD": "14",
+      "dogruCevap": 1,
       "zorluk": 1,
       "kategori": "Matematik"
     },
