@@ -42,7 +42,7 @@
       "cevapD": "Kemik",
       "dogruCevap": 0,
       "zorluk": 1,
-      "kategori": "Matematik"
+      "kategori": "Deyim"
     },
     {
       "id": "Q0005",
@@ -141,7 +141,7 @@
       "cevapD": "Çöp",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Genel Kültür"
+      "kategori": "Dil Bilgisi"
     },
     {
       "id": "Q0014",
@@ -174,7 +174,7 @@
       "cevapD": "Bir bakışta",
       "dogruCevap": 1,
       "zorluk": 1,
-      "kategori": "Genel Kültür"
+      "kategori": "Deyim"
     },
     {
       "id": "Q0017",
@@ -218,7 +218,7 @@
       "cevapD": "Şaşkınlık",
       "dogruCevap": 2,
       "zorluk": 1,
-       "kategori": "Genel Kültür"
+       "kategori": "Deyim"
     },
     {
       "id": "Q0021",
@@ -251,7 +251,7 @@
       "cevapD": "Hayranlık",
       "dogruCevap": 3,
       "zorluk": 1,
-      "kategori": "Genel Kültür"
+      "kategori": "Deyim"
     },
     {
       "id": "Q0024",
@@ -977,7 +977,7 @@
       "cevapD": "Denizanası",
       "dogruCevap": 3,
       "zorluk": 2,
-      "kategori": "Matematik"
+      "kategori": "Biyoloji"
     },
     {
       "id": "Q0090",
