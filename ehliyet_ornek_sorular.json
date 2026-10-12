@@ -1,0 +1,114 @@
+{
+  "sorular": [
+    {
+      "id": "EHL0001",
+      "soru": "Trafik kazası görüldüğünde, olay yeri güvenliği sağlandıktan sonra acil yardım için hangi numara aranmalıdır?",
+      "cevapA": "110",
+      "cevapB": "112",
+      "cevapC": "155",
+      "cevapD": "177",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "İlk Yardım"
+    },
+    {
+      "id": "EHL0002",
+      "soru": "Dış kanaması olan bir yaralıda ilk olarak hangi uygulama yapılmalıdır?",
+      "cevapA": "Yaraya doğrudan bası uygulamak",
+      "cevapB": "Yaralıyı yürütmek",
+      "cevapC": "Bol su içirmek",
+      "cevapD": "Yarayı açık bırakmak",
+      "dogruCevap": 0,
+      "zorluk": 1,
+      "kategori": "İlk Yardım"
+    },
+    {
+      "id": "EHL0003",
+      "soru": "Aşağıdakilerden hangisi trafik işaret ve levhalarının temel amaçlarından biridir?",
+      "cevapA": "Yakıt tüketimini artırmak",
+      "cevapB": "Trafiği düzenlemek ve yol kullanıcılarını bilgilendirmek",
+      "cevapC": "Araçların hızını artırmak",
+      "cevapD": "Sadece yayalara bilgi vermek",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Trafik ve Çevre"
+    },
+    {
+      "id": "EHL0004",
+      "soru": "Sürücünün takip mesafesini artırmasını gerektiren durumlardan biri hangisidir?",
+      "cevapA": "Kuru yol",
+      "cevapB": "Trafiğin boş olması",
+      "cevapC": "Yağışlı ve kaygan yol",
+      "cevapD": "Aracın park hâlinde olması",
+      "dogruCevap": 2,
+      "zorluk": 2,
+      "kategori": "Trafik ve Çevre"
+    },
+    {
+      "id": "EHL0005",
+      "soru": "Emniyet kemerinin temel görevi nedir?",
+      "cevapA": "Yakıt tasarrufu sağlamak",
+      "cevapB": "Motor ömrünü uzatmak",
+      "cevapC": "Çarpışmada kişinin savrulmasını azaltmak",
+      "cevapD": "Lastik aşınmasını azaltmak",
+      "dogruCevap": 2,
+      "zorluk": 1,
+      "kategori": "Trafik ve Çevre"
+    },
+    {
+      "id": "EHL0006",
+      "soru": "Motor yağ seviyesinin kontrolünde araç hangi durumda olmalıdır?",
+      "cevapA": "Eğimli zeminde",
+      "cevapB": "Düz zeminde ve uygun bekleme sonrasında",
+      "cevapC": "Hareket hâlindeyken",
+      "cevapD": "Sadece farlar açıkken",
+      "dogruCevap": 1,
+      "zorluk": 2,
+      "kategori": "Araç Tekniği"
+    },
+    {
+      "id": "EHL0007",
+      "soru": "Lastik hava basıncının önerilenden çok düşük olması neye yol açabilir?",
+      "cevapA": "Yakıt tüketiminin artmasına",
+      "cevapB": "Akünün hızlı şarj olmasına",
+      "cevapC": "Motor yağının çoğalmasına",
+      "cevapD": "Farların daha parlak yanmasına",
+      "dogruCevap": 0,
+      "zorluk": 2,
+      "kategori": "Araç Tekniği"
+    },
+    {
+      "id": "EHL0008",
+      "soru": "Trafikte başka bir sürücünün hatasıyla karşılaşan kişinin en uygun davranışı hangisidir?",
+      "cevapA": "Öfkeyle karşılık vermek",
+      "cevapB": "Takip ederek tartışmak",
+      "cevapC": "Sakin kalıp güvenliği ön planda tutmak",
+      "cevapD": "Yolu kapatmak",
+      "dogruCevap": 2,
+      "zorluk": 1,
+      "kategori": "Trafik Adabı"
+    },
+    {
+      "id": "EHL0009",
+      "soru": "Trafikte empati kurmak neyi ifade eder?",
+      "cevapA": "Sadece kendi geçiş hakkını düşünmeyi",
+      "cevapB": "Diğer yol kullanıcılarının durumunu da dikkate almayı",
+      "cevapC": "Her durumda korna kullanmayı",
+      "cevapD": "Kuralları kişiye göre değiştirmeyi",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Trafik Adabı"
+    },
+    {
+      "id": "EHL0010",
+      "soru": "Kavşağa yaklaşan bir sürücünün en uygun davranışı hangisidir?",
+      "cevapA": "Hızını artırmak",
+      "cevapB": "Görüş ve trafik durumuna göre hızını azaltmak",
+      "cevapC": "Sürekli korna çalmak",
+      "cevapD": "Her durumda şerit değiştirmek",
+      "dogruCevap": 1,
+      "zorluk": 1,
+      "kategori": "Trafik ve Çevre"
+    }
+  ]
+}
